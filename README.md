@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2019年02月22日現在
+2019年02月26日現在
 
 ## 基本情報
 
@@ -11,6 +11,7 @@
 |性別|男|
 |血液型|O|
 |居住地|東京都中野区|
+|Twitter|[kazuya_araki_jp](https://twitter.com/kazuya_araki_jp)|
 |GitHub|[araki-ka](https://github.com/araki-ka)|
 |Bitbucket|[araki-ka](https://bitbucket.org/araki-ka/)|
 |facebook|[Kazuya Araki](https://www.facebook.com/profile.php?id=100008805934222)|
