@@ -234,8 +234,7 @@
     - 具現化系(ドメイン知識) : 3
     - 操作系(データ基盤) : 12
     - 特質系(社会実装) : 10
-    <iframe src="https://public.tableau.com/views/HUNTERHUNTER6/HUNTERHUNTER6?:showVizHome=no&:embed=true"
- width="400" height="300"></iframe>
+    <iframe src="https://public.tableau.com/views/HUNTERHUNTER6/HUNTERHUNTER6?:showVizHome=no&:embed=true" width="400" height="300"></iframe>
  
 
 ### 読書とアウトプット
