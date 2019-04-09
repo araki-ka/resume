@@ -228,13 +228,15 @@
     - [参考](https://www.slideshare.net/DataScientist_JP/2017-81179087)
     - Associate Data Scientist(独り⽴ちレベル)
 - [HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](https://tjo.hatenablog.com/entry/2018/10/09/190000)で表現すると下記
-  ![HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](./image/nen.png)
-    - 強化系(モデリング) : 7
-    - 変化系(各種統計分析) : 2
-    - 放出系(プログラミング) : 9
-    - 具現化系(ドメイン知識) : 1
-    - 操作系(データ基盤) : 15
+    - 強化系(モデリング) : 5
+    - 変化系(各種統計分析) : 3
+    - 放出系(プログラミング) : 10
+    - 具現化系(ドメイン知識) : 3
+    - 操作系(データ基盤) : 12
     - 特質系(社会実装) : 10
+    <iframe src="https://public.tableau.com/views/HUNTERHUNTER6/HUNTERHUNTER6?:showVizHome=no&:embed=true"
+ width="400" height="300"></iframe>
+ 
 
 ### 読書とアウトプット
 
