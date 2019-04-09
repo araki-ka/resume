@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2019年02月22日現在
+2019年04月09日現在
 
 ## 基本情報
 
@@ -234,7 +234,8 @@
     - 具現化系(ドメイン知識) : 3
     - 操作系(データ基盤) : 12
     - 特質系(社会実装) : 10
-    <iframe src="https://public.tableau.com/views/HUNTERHUNTER6/HUNTERHUNTER6?:showVizHome=no&:embed=true" width="400" height="300"></iframe>
+    ![HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](./image/nen.png)
+    [Tableau Public](https://public.tableau.com/views/HUNTERHUNTER6/HUNTERHUNTER6?:embed=y&:display_count=yes)
  
 
 ### 読書とアウトプット
