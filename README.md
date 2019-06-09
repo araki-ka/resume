@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2019年04月09日現在
+2019年06月07日現在
 
 ## 基本情報
 
@@ -11,11 +11,11 @@
 |性別|男|
 |血液型|O|
 |居住地|東京都中野区|
+|note|[Kazuya Araki](https://note.mu/jedi_trickstar)|
 |Twitter|[kazuya_araki_jp](https://twitter.com/kazuya_araki_jp)|
 |GitHub|[araki-ka](https://github.com/araki-ka)|
 |Bitbucket|[araki-ka](https://bitbucket.org/araki-ka/)|
 |facebook|[Kazuya Araki](https://www.facebook.com/profile.php?id=100008805934222)|
-|Instagram|[zakiyamakaoru](https://www.instagram.com/zakiyamakaoru/)|
 |Linkedin|[kazuya-araki](https://www.linkedin.com/in/kazuya-araki-65680111a/)|
 |SlideShare|[Kazuya Araki](https://www.slideshare.net/KazuyaARAKI)|
 
@@ -58,13 +58,16 @@
 |2018年02月~2018年04月|事業戦略本部 事業戦略部 BIグループ<br>兼<br>マーケティングテクノロジー室|マーケティングテクノロジー室を兼務。<br>デジタルマーケティングを目指すべく、分析基盤のあり方を考え、実行に移す。|
 |2018年05月~2018年07月|マーケティングテクノロジー室<br>兼<br>事業戦略本部 事業戦略部 BIグループ|マーケティングテクノロジー室に主務移転。<br>データ分析基盤の要件定義、企画、設計、運用を担当。<br>データにまつわる知見を広めていき、データドリブン企業を推進。|
 |2018年08月~2019年01月|システム本部 マーケティングテクノロジー室<br>兼<br>事業戦略本部 事業戦略部 BIグループ|データ分析基盤の要件定義、企画、設計、運用保守。<br>Tableau Server管理者。<br>Tableauを利用したデータドリブン組織の醸成を牽引。|
-|2019年02月~現在|リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室<br>兼<br>事業戦略本部 事業戦略部|同上。|
+|2019年02月~2019年04月|リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室<br>兼<br>事業戦略本部 事業戦略部|同上。<br>カスタマーサイドのデータ分析利活用支援(ダッシュボード作成、データ整備)。|
+|2019年05月~現在|リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室|同上。<br>Tableau推進(Classroom開校、Boot Camp)<br>ビジネスサイドのデータ利活用支援(レポーティング最適化、資料自動化など)。|
 
 ## 資格
 
 - 実用数学技能検定3級
 - TOEIC 600
 - 普通自動車運転免許(AT限定)
+- 統計検定3級
+- 8th Tableau Jedi(Trickstar)
 
 ## スキル
 
@@ -151,27 +154,46 @@
     - S3
     - SQS
     - Redshift
+    - CloudWatch
 - Google Cloud Platform
-    - Compute Engine
+    - Products
+        - [IAM & Admin](https://cloud.google.com/iam/)
+        - Security
+            - [VPC Service Control](https://cloud.google.com/vpc-service-controls/)
+    - Compute
+        - [App Engine](https://cloud.google.com/appengine/)
+        - [Compute Engine](https://cloud.google.com/compute/)
+        - [Cloud Function](https://cloud.google.com/functions/)
     - Storage
-    - Big Query
-    - Pub/Sub
-    - Dataprep
-    - Dataflow
-    - Stackdriver
-    - Cloud Function
+        - [Cloud Storage](https://cloud.google.com/storage/)
+            - [Storage Transfer Service](https://cloud.google.com/storage-transfer/docs/)
+    - Networking
+        - [VPC Network](https://cloud.google.com/vpc/)
+    - [Stackdriver](https://cloud.google.com/stackdriver/)
+        - [Monitoring](https://cloud.google.com/monitoring/)
+        - [Debuger](https://cloud.google.com/debugger/)
+        - [Trace](https://cloud.google.com/trace/)
+        - [Logging](https://cloud.google.com/logging/)
+    - Big Data
+        - [Dataflow](https://cloud.google.com/dataflow/)
+        - [BigQuery](https://cloud.google.com/bigquery/)
+            - [BigQuery Data Transfer Service](https://cloud.google.com/bigquery/transfer/)
+        - [Pub/Sub](https://cloud.google.com/pubsub/)
+        - [Dataproc](https://cloud.google.com/dataflow/)
+        - [Dataprep](https://cloud.google.com/dataprep/)
 - さくらのクラウド
 
 ### IDE
 
 - [Eclipse](https://www.eclipse.org/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Light Table](http://lighttable.com/)
 - [Xcode](https://developer.apple.com/jp/xcode/)
 - [Android Studio](https://developer.android.com/studio/index.html)
 - [Visual Studio](https://www.microsoft.com/ja-jp/dev/default.aspx)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [SQL Server Management Studio(SSMS)](https://docs.microsoft.com/ja-jp/sql/ssms/download-sql-server-management-studio-ssms)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
-- [Light Table](http://lighttable.com/)
 
 ## 座右の銘
 
@@ -222,9 +244,9 @@
     - Tableau + Python
         - 簡単な予測モデルのドラフトを作成。
 
-### データサイエンス
+### データサイエンス    
 
-- [データサイエンティスト協会](http://www.datascientist.or.jp/)一般会員。
+- [データサイエンティスト協会](http://www.datascientist.or.jp/)会員。
 - データサイエンス力 : データエンジニアリング力 : ビジネス力 = 2 : 5 : 3
     - [参考](https://www.slideshare.net/DataScientist_JP/2017-81179087)
     - Associate Data Scientist(独り⽴ちレベル)
@@ -247,29 +269,28 @@
 
 ## どんなことがしたいか？
 
+### データ活用人材の育成、価値向上
+
+データリテラシーの高い人材が今後の業務のあり方を変えていくと考えています。  
+データアナリスト、データサイエンティストなど、データに携わる職種の価値を欧米諸国並に向上させたいです。  
+(ただ、現状はデータリテラシーとビジネススキルの双方を持ち合わせた人材はなかなか市場にはいないのが現実です)
+
 ### データ人材界隈イベント
 
 知見と人脈を広げるために、データ人材界隈のイベントに参加したりしています。  
 最近登壇したりLTに参加し、アウトプットしています。
 
-### 日本のエンジニアの地位向上
+#### 登壇実績
 
-IT技術が世の中を支えていると考えています。  
-人間が豊かになってきた原動力は、技術力、ひいては技術者の力だと信じています。  
-昨今の日本の技術力の停滞の一因に営業ファーストの文化が根強い点にあると思います。  
-諸外国と比べ、日本では営業力の方が技術力よりも圧倒的に強い。  
-一方で、日本のエンジニアの技術力にも問題があるとも実体験として感じでいます。  
-海外と比べ、全体的に日本のエンジニアの質、量ともに劣っている点は感じています。  
-エンジニアのスキルの質向上、ならびにエンジニアの数が増える世界を日々模索しています。
+|Date|Event|
+|---|---|
+|2018/09/26|Data Peopleの為の勉強会~eureka×Leverages×Bizreach~|
+|2018/10/01|Tableau Server運用管理者ミートアップ|
+|2018/11/14|Data Analyst Meetup Tokyo Vol.8|
+|2019/05/14|Tableau Data Day Out Tokyo|
 
 ### 価値あることを正しく行う。正しいことに価値を与えること
 
 [現職の企業理念(バリュー)](http://www.bizreach.co.jp/corporate_info/principles/)にある、 **価値あることを、正しくやろう** という言葉にとても感銘を受けています。  
 特に数字を取り扱ったり、アウトプットする職である以上、正しいことは当然の行動指針であるべきだと考えています。  
 また、正しいことであるにも関わらず価値提供できていないこと(先のエンジニアの地位など)を適切な価値を届けていきたいです。
-
-### データ活用人材の育成、価値向上
-
-データリテラシーの高い人材が今後の業務のあり方を変えていくと考えています。  
-データアナリスト、データサイエンティストなど、データに携わる職種の価値を欧米諸国並に向上させたいです。  
-(ただ、現状はデータリテラシーとビジネススキルの双方を持ち合わせた人材はなかなか市場にはいないのが現実です)
