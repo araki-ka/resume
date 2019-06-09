@@ -45,7 +45,7 @@
 |---|---|---|
 |2013年09月~2014年09月|ワークフローパッケージ「LaKeel Workflow」製品開発|開発メンバー -> プロダクトリーダー|
 |2014年10月~2015年01月|Webアプリケーション構築プロジェクト瑕疵対応|メンバー、テスト自動化チームリーダー|
-|2015年02月~2016年07月|ビジネス用チャットパッケージ「[COMPANY Messenger](http://www.worksap.co.jp/messenger/)」製品開発|メンバー -> プロダクトリーダー、アーキテクト|
+|2015年02月~2016年07月|ビジネス用チャットパッケージ「COMPANY Messenger(現[LaKeel Messenger](https://messenger.lakeel.com/))」製品開発|メンバー -> プロダクトリーダー、アーキテクト|
 |2016年08月~2017年04月|Business Intelligenceパッケージ「[LaKeel BI](https://bi.lakeel.com/)」製品開発|プロダクトマネージャー(≒プレイングマネージャー)、アーキテクト、PMO|
 
 #### 株式会社ビズリーチ
@@ -140,6 +140,7 @@
         - Microsoft Access
         - Oracle Database
         - SQLite
+        - Persto
     - NoSQL
         - MongoDB
         - Apache Cassandra
@@ -148,14 +149,14 @@
     - SAP BW
 
 ### Cloud
-- AWS
+- [AWS](https://aws.amazon.com/jp/)
     - EC2
     - EBS
     - S3
     - SQS
     - Redshift
     - CloudWatch
-- Google Cloud Platform
+- [Google Cloud Platform](https://cloud.google.com/?hl=ja)
     - Products
         - [IAM & Admin](https://cloud.google.com/iam/)
         - Security
@@ -181,7 +182,8 @@
         - [Pub/Sub](https://cloud.google.com/pubsub/)
         - [Dataproc](https://cloud.google.com/dataflow/)
         - [Dataprep](https://cloud.google.com/dataprep/)
-- さくらのクラウド
+- [さくらのクラウド](https://cloud.sakura.ad.jp/)
+- [TREASURE DATA](https://www.treasuredata.co.jp/)
 
 ### IDE
 
@@ -214,9 +216,14 @@
 - データ分析基盤の設計、構築、運用
     - Google BigQuery
     - TREASURE DATA
-- データ可視化のアドバイザー
-    - Tableau(Desktop, Prep, Server)
-    - Google Data Studio
+- データ利活用アドバイザー
+    - Tableau Doctor(Tableauに関するアドバイス、コーチング)
+        - Tableau Desktop
+        - Tableau Prep Builder
+        - Tableau Server
+    - Google
+        - Data Studio
+        - BigQuery
 
 #### データ × エンジニアリング × 教育 = 非エンジニアに対してのテクノロジー教育
 
@@ -225,6 +232,8 @@
         - SQL勉強会
         - 構成管理(Git)ハンズオン
         - BigQuery基礎ハンズオン
+        - Tableau 社内Classroom
+        - Standard SQL 社内Classroom
     - アドバイザー
         - Tableau
         - Python
@@ -284,7 +293,7 @@
 
 |Date|Event|
 |---|---|
-|2018/09/26|Data Peopleの為の勉強会~eureka×Leverages×Bizreach~|
+|2018/09/26|Data Peopleの為の勉強会\~eureka×Leverages×BizReach\~|
 |2018/10/01|Tableau Server運用管理者ミートアップ|
 |2018/11/14|Data Analyst Meetup Tokyo Vol.8|
 |2019/05/14|Tableau Data Day Out Tokyo|
