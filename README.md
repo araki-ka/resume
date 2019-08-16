@@ -72,6 +72,17 @@
 
 ## スキル
 
+### [HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](https://tjo.hatenablog.com/entry/2018/10/09/190000)
+- 強化系(モデリング) : 5
+- 変化系(各種統計分析) : 3
+- 放出系(プログラミング) : 10
+- 具現化系(ドメイン知識) : 3
+- 操作系(データ基盤) : 12
+- 特質系(社会実装) : 10
+![HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](./image/nen.png)
+[Tableau Public](https://public.tableau.com/views/HUNTERHUNTER6/HUNTERHUNTER6?:embed=y&:display_count=yes)
+
+
 ### Portfolio
 
 - [Tableau Public](https://public.tableau.com/profile/kazuya.araki#!/)
@@ -252,24 +263,7 @@
         - 重回帰分析を用いてCustomer領域のデータモデルパッケージを試作。
         - 教師なし学習を用いたHR領域の予測モデルを適用。
     - Tableau + Python
-        - 簡単な予測モデルのドラフトを作成。
-
-### データサイエンス    
-
-- [データサイエンティスト協会](http://www.datascientist.or.jp/)会員。
-- データサイエンス力 : データエンジニアリング力 : ビジネス力 = 2 : 5 : 3
-    - [参考](https://www.slideshare.net/DataScientist_JP/2017-81179087)
-    - Associate Data Scientist(独り⽴ちレベル)
-- [HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](https://tjo.hatenablog.com/entry/2018/10/09/190000)で表現すると下記
-    - 強化系(モデリング) : 5
-    - 変化系(各種統計分析) : 3
-    - 放出系(プログラミング) : 10
-    - 具現化系(ドメイン知識) : 3
-    - 操作系(データ基盤) : 12
-    - 特質系(社会実装) : 10
-    ![HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](./image/nen.png)
-    [Tableau Public](https://public.tableau.com/views/HUNTERHUNTER6/HUNTERHUNTER6?:embed=y&:display_count=yes)
- 
+        - 簡単な予測モデルのドラフトを作成。 
 
 ### 読書とアウトプット
 
