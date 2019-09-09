@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2019年08月02日現在
+2019年09月09日現在
 
 ## 基本情報
 
@@ -15,7 +15,7 @@
 |Twitter|[kazuya_araki_jp](https://twitter.com/kazuya_araki_jp)|
 |GitHub|[araki-ka](https://github.com/araki-ka)|
 |Bitbucket|[araki-ka](https://bitbucket.org/araki-ka/)|
-|facebook|[Kazuya Araki](https://www.facebook.com/profile.php?id=100008805934222)|
+|facebook|[Kazuya Araki](https://www.facebook.com/kazuya.araki.tokyo)|
 |Linkedin|[kazuya-araki](https://www.linkedin.com/in/kazuya-araki-65680111a/)|
 |SlideShare|[Kazuya Araki](https://www.slideshare.net/KazuyaARAKI)|
 
@@ -220,6 +220,12 @@
 
 ### データ × ○○
 
+#### データ × デザイン = ビジュアルアナリティクス
+
+![Art and Science of Visual Analytics Episode 0_1](./image/Art_and_Science_of_Visual_Analytics_Episode_0_1.png)  
+![Art and Science of Visual Analytics Episode 0_2](./image/Art_and_Science_of_Visual_Analytics_Episode_0_2.png)  
+![Forms and Positions](./image/Forms_and_Positions.png)
+
 #### データ × マーケティング = デジタルマーケティング
 
 データサイエンスは、マーケティングと親和性の高い分野です。  
@@ -227,7 +233,7 @@
 直近はデジタルマーケティングにつながる以下の活動をしています。
 - データ分析基盤の設計、構築、運用
     - Google BigQuery
-    - TREASURE DATA
+    - ARM Treasure Data
 - データ利活用アドバイザー
     - Tableau Doctor(Tableauに関するアドバイス、コーチング)
         - Tableau Desktop
