@@ -60,7 +60,8 @@
 |2018年08月~2019年01月|システム本部 マーケティングテクノロジー室<br>兼<br>事業戦略本部 事業戦略部 BIグループ|データ分析基盤の要件定義、企画、設計、運用保守<br>Tableau Server管理者<br>Tableauを利用したデータドリブン組織牽引|
 |2019年02月~2019年04月|リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室<br>兼<br>事業戦略本部 事業戦略部|同上。<br>カスタマーサイドのデータ分析利活用支援(ダッシュボード作成、データ整備)。|
 |2019年05月~2019年07月|リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室|同上。<br>Tableau推進(Classroom開校、Boot Camp)<br>ビジネスサイドのデータ利活用支援(レポーティング最適化、資料自動化など)|
-|2019年08月~現在|HR Techカンパニー リクルーティングプラットフォーム事業ユニット マーケティングテクノロジー室|経営指標モニタリングプロジェクト(事業企画と協働)<br>ビジネスサイドのデータ利活用支援(レポーティング最適化、顧客提供用の定例資料自動化など)<br>Tableau Server管理<br>Data Warehouse(Google BigQuery)管理|
+|2019年08月~2020年01月|HR Techカンパニー リクルーティングプラットフォーム事業ユニット マーケティングテクノロジー室|経営指標モニタリングプロジェクト(事業企画と協働)<br>ビジネスサイドのデータ利活用支援(レポーティング最適化、顧客提供用の定例資料自動化など)<br>Tableau Server管理<br>Data Warehouse(Google BigQuery)管理|
+|2020年01月~現在|DX推進室|CSOの意思決定をデータアナリティクスで支援<br>DBRE、横断プラットフォーム組織とのデータインフラ整備<br>Tableau Server管理<br>Data Warehouse(Google BigQuery)管理|
 
 ## 資格
 
@@ -216,6 +217,30 @@
 - 現状に満足せず、常に好奇心を持ち続ける
 - Time Is Money.
 
+## 実績
+
+### 登壇
+
+|Date|Event|
+|---|---|
+|2018年09月26日|Data Peopleの為の勉強会\~eureka×Leverages×BizReach\~|
+|2018年10月01日|Tableau Server運用管理者ミートアップ|
+|2018年11月14日|Data Analyst Meetup Tokyo Vol.8|
+|2019年05月14日|Tableau Data Day Out Tokyo|
+|2019年08月19日|[第1回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/743100)|
+|2019年10月21日|[Tableauデータサイエンス勉強会 第4回 - 画像認識技術とBIの巻-](https://techplay.jp/event/750555)|
+|2019年11月25日|[第2回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/746910)|
+
+### メディア掲載
+
+|Date|Event|
+|---|---|
+|2018年07月18日|[データの力で、事業を加速する｜BIグループの仕事を公開！](https://reachone.bizreach.co.jp/entry/2018/07/18/145421)|
+|2018年11月29日|[「Data Analyst Meetup Tokyo vol.8」に弊社データアナリストが登壇しました！](https://reachone.bizreach.co.jp/entry/2018/11/29/160043)|
+|2019年02月13日|[高校生に向けてAIとBIのデータ活用講座を開催しました！](https://reachone.bizreach.co.jp/entry/2019/02/13/113418)|
+|2019年07月29日|[Tableauが3か月でBI人材を育てるブートキャンプ──企業にデータ分析文化を広めるデータセイバー](https://bizzine.jp/article/detail/3543)|
+
+
 ## 興味があるもの
 
 ### データ × ○○
@@ -288,22 +313,10 @@
 ### データ人材界隈イベント
 
 知見と人脈を広げるために、データ人材界隈のイベントに参加したりしています。  
-最近登壇したりLTに参加し、アウトプットしています。
-
-#### 登壇実績
-
-|Date|Event|
-|---|---|
-|2018年09月26日|Data Peopleの為の勉強会\~eureka×Leverages×BizReach\~|
-|2018年10月01日|Tableau Server運用管理者ミートアップ|
-|2018年11月14日|Data Analyst Meetup Tokyo Vol.8|
-|2019年05月14日|Tableau Data Day Out Tokyo|
-|2019年08月19日|[第1回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/743100)|
-|2019年10月21日|[Tableauデータサイエンス勉強会 第4回 - 画像認識技術とBIの巻-](https://techplay.jp/event/750555)|
-|2019年11月25日|[第2回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/746910)|
+登壇したりLTに参加し、アウトプットしています。
 
 ### 価値あることを正しく行う。正しいことに価値を与えること
 
-[現職の企業理念(バリュー)](http://www.bizreach.co.jp/corporate_info/principles/)にある、 **価値あることを、正しくやろう** という言葉にとても感銘を受けています。  
+[現職の企業理念(バリュー)](https://www.bizreach.co.jp/mission/)にある、 **価値あることを、正しくやろう** という言葉にとても感銘を受けています。  
 特に数字を取り扱ったり、アウトプットする職である以上、正しいことは当然の行動指針であるべきだと考えています。  
 また、正しいことであるにも関わらず価値提供できていないこと(先のエンジニアの地位など)を適切な価値を届けていきたいです。
