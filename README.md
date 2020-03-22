@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2020年02月02日現在
+2020年03月16日現在
 
 ## 基本情報
 
@@ -11,7 +11,7 @@
 |性別|男|
 |血液型|O|
 |居住地|東京都中野区|
-|note|[Kazuya Araki](https://note.mu/jedi_trickstar)|
+|note|[Kazuya Araki](https://note.com/jedi_trickstar)|
 |Twitter|[kazuya_araki_jp](https://twitter.com/kazuya_araki_jp)|
 |GitHub|[araki-ka](https://github.com/araki-ka)|
 |Bitbucket|[araki-ka](https://bitbucket.org/araki-ka/)|
@@ -23,45 +23,51 @@
 
 ### 概要
 
-|Term|Overview|
+|Term|Company|
 |---|---|
 |2007年05月~2013年08月|[アロウズ・システム株式会社](http://www.arouse.co.jp/)|
 |2013年09月~2017年04月|[株式会社レジェンド・アプリケーションズ](http://www.legendapl.com/)(現、[株式会社ラキール](https://lakeel.com/))|
-|2017年05月~現在|[株式会社ビズリーチ](http://www.bizreach.co.jp/)|
+|2017年05月~2020年03月|[株式会社ビズリーチ](http://www.bizreach.co.jp/)|
+|2020年03月~現在|[株式会社エウレカ](https://eure.jp/)|
 
 ### 詳細
 
 #### アロウズ・システム株式会社
 
-|Term|Content|Organization / Role|
-|---|---|---|
-|2007年05月~2011年04月|- SAP製品アドイン開発(Java, ABAP)<br>- Webアプリケーション開発(Java, PHP)|メンバー|
-|2011年04月~2012年10月|受託開発(tier 1~tier 3)|メンバー~リーダー|
-|2012年11月~2013年08月|- オープンWebシステムの運用保守<br>- 小規模〜中規模程度のシステム改修案件|メンバー -> 開発リーダー|
+|Term|Organization|Role|Contents|
+|---|---|---|---|
+|2007年05月~2011年04月|オープンシステム開発部|システムエンジニア メンバー|- SAP製品アドイン開発(Java, ABAP)<br>- Webアプリケーション開発(Java, PHP)|
+|2011年04月~2012年10月|オープンシステム開発部|システムエンジニア メンバー~リーダー|受託開発(tier 1~tier 3)|
+|2012年11月~2013年08月|オープンシステム開発部|システムエンジニア メンバー -> 開発リーダー|- オープンWebシステムの運用保守<br>- 小規模〜中規模程度のシステム改修案件|
 
 #### 株式会社レジェンド・アプリケーションズ
 
-|Term|Content|Organization / Role|
-|---|---|---|
-|2013年09月~2014年09月|ワークフローパッケージ「LaKeel Workflow」製品開発|開発メンバー -> プロダクトリーダー|
-|2014年10月~2015年01月|Webアプリケーション構築プロジェクト瑕疵対応|メンバー、テスト自動化チームリーダー|
-|2015年02月~2016年07月|ビジネス用チャットパッケージ「COMPANY Messenger(現[LaKeel Messenger](https://messenger.lakeel.com/))」製品開発|メンバー -> プロダクトリーダー、アーキテクト|
-|2016年08月~2017年04月|Business Intelligenceパッケージ「[LaKeel BI](https://bi.lakeel.com/)」製品開発|プロダクトマネージャー(≒プレイングマネージャー)、アーキテクト、PMO|
+|Term|Organization|Role|Contents|
+|---|---|---|---|
+|2013年09月~2014年09月|プロダクト開発本部 LaKeel開発グループ LWF開発チーム|フロントエンドエンジニア -> バックエンドエンジニア -> プロダクトリーダー|ワークフローパッケージ「LaKeel Workflow」製品開発|
+|2014年10月~2015年01月|AMS開発本部|テスト自動化チームリーダー|Webアプリケーション構築プロジェクト瑕疵対応|
+|2015年02月~2016年07月|プロダクト開発本部 LaKeel開発グループ CM開発チーム|アプリケーションエンジニア -> プロダクトリーダー、アーキテクト|ビジネス用チャットパッケージ「COMPANY Messenger(現[LaKeel Messenger](https://messenger.lakeel.com/))」製品開発|
+|2016年08月~2017年04月|プロダクト開発本部 LaKeel開発グループ LBI開発チーム|プロダクトマネージャー、アーキテクト、PMO|Business Intelligenceパッケージ「[LaKeel BI](https://bi.lakeel.com/)」製品開発|
 
 #### 株式会社ビズリーチ
 
-|Term|Content|Organization / Role|
-|---|---|---|
-|2017年05月~2017年07月|事業戦略部 BIグループ|データ抽出、加工、分析。<br>データを用いて既存事業をグロースさせる施策を考えたりしています。|
-|2017年08月~2017年12月|事業戦略本部 事業戦略部 BIグループ(組織名変更のみ)|上記は継続。<br>データサイエンティスト活動開始。<br>非エンジニア向けにITリテラシーを向上する活動(技術提供、勉強会、ナレッジシェアリング等)。|
-|2018年01月|事業戦略本部 事業戦略部 BIグループ<br>兼<br>ビズリーチ事業本部 サービス開発本部(ビズリーチ) カスタマーマーケティング部(ビズリーチ) カスタマーマーケティングイノベーション(ビズリーチ)|上記に加え、マーケティングチームを兼務。<br>データドリブンマーケティングチームを目指すべく、データ基盤の整備、既存オペレーションの改善提案など、カスタマーマーケティングチームと協働。|
-|2018年02月~2018年04月|事業戦略本部 事業戦略部 BIグループ<br>兼<br>マーケティングテクノロジー室|マーケティングテクノロジー室を兼務。<br>デジタルマーケティングを目指すべく、分析基盤のあり方を考え、実行に移す。|
-|2018年05月~2018年07月|マーケティングテクノロジー室<br>兼<br>事業戦略本部 事業戦略部 BIグループ|マーケティングテクノロジー室に主務移転。<br>データ分析基盤の要件定義、企画、設計、運用を担当。<br>データにまつわる知見を広めていき、データドリブン企業を推進。|
-|2018年08月~2019年01月|システム本部 マーケティングテクノロジー室<br>兼<br>事業戦略本部 事業戦略部 BIグループ|データ分析基盤の要件定義、企画、設計、運用保守<br>Tableau Server管理者<br>Tableauを利用したデータドリブン組織牽引|
-|2019年02月~2019年04月|リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室<br>兼<br>事業戦略本部 事業戦略部|同上。<br>カスタマーサイドのデータ分析利活用支援(ダッシュボード作成、データ整備)。|
-|2019年05月~2019年07月|リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室|同上。<br>Tableau推進(Classroom開校、Boot Camp)<br>ビジネスサイドのデータ利活用支援(レポーティング最適化、資料自動化など)|
-|2019年08月~2020年01月|HR Techカンパニー リクルーティングプラットフォーム事業ユニット マーケティングテクノロジー室|経営指標モニタリングプロジェクト(事業企画と協働)<br>ビジネスサイドのデータ利活用支援(レポーティング最適化、顧客提供用の定例資料自動化など)<br>Tableau Server管理<br>Data Warehouse(Google BigQuery)管理|
-|2020年02月~現在|DX推進室|CSOの意思決定をデータアナリティクスで支援<br>DBRE、横断プラットフォーム組織とのデータインフラ整備<br>Tableau Server管理<br>Data Warehouse(Google BigQuery)管理|
+|Term|Organization|Role|Contents|
+|---|---|---|---|
+|2017年05月~2017年12月|事業戦略部 BIグループ|データアナリスト|- ビズリーチサービスデータ抽出、加工、分析<br>- データを用いて既存事業のグロース施策提案<br>- 非エンジニア向けにITリテラシーを向上する活動(技術提供、勉強会、ナレッジシェアリング等)|
+|2018年01月|- 事業戦略本部 事業戦略部 BIグループ<br>- ビズリーチ事業本部 サービス開発本部(ビズリーチ) カスタマーマーケティング部(ビズリーチ) カスタマーマーケティングイノベーション(ビズリーチ)|データアナリスト、データエンジニア|- マーケティングチーム兼務<br>- データドリブンマーケティングチームを目指すべく、データ基盤の整備、既存オペレーションの改善提案など、カスタマーマーケティングチームと協働|
+|2018年02月~2018年04月|- 事業戦略本部 事業戦略部 BIグループ<br>- マーケティングテクノロジー室|データエンジニア|- マーケティングテクノロジー室兼務<br>- デジタルマーケティングを目指すべく、データ分析基盤の起案、設計|
+|2018年05月~2018年07月|- マーケティングテクノロジー室<br>- 事業戦略本部 事業戦略部 BIグループ|データエンジニア|- マーケティングテクノロジー室主務移行<br>- データ分析基盤の要件定義、企画、設計、運用|
+|2018年08月~2019年01月|- システム本部 マーケティングテクノロジー室<br>- 事業戦略本部 事業戦略部 BIグループ|データエンジニア、データアナリスト|- データ分析基盤の要件定義、企画、設計、運用保守<br>- Tableau Server管理者<br>- Tableauを利用したデータドリブン組織牽引|
+|2019年02月~2019年04月|- リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室<br>- 事業戦略本部 事業戦略部|データエンジニア、データアナリスト|- 同上<br>- カスタマーサイドのデータ分析利活用支援(ダッシュボード作成、データ整備)|
+|2019年05月~2019年07月|リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室|データエンジニア、データアナリスト|- 同上<br>- Tableau推進(Classroom開校、Boot Camp)<br>- ビジネスサイドのデータ利活用支援(レポーティング最適化、資料自動化など)|
+|2019年08月~2020年01月|HR Techカンパニー リクルーティングプラットフォーム事業ユニット マーケティングテクノロジー室|データエンジニア、データアーキテクト|- 経営指標モニタリングプロジェクト(事業企画と協働)<br>- ビジネスサイドのデータ利活用支援(レポーティング最適化、顧客提供用の定例資料自動化など)<br>- Tableau Server管理<br>- Data Warehouse(Google BigQuery)管理|
+|2020年02月~2020年03月|DX推進室|データアナリスト、データアーキテクト|- CSOの意思決定をデータアナリティクスで支援<br>- DBRE、横断プラットフォーム組織とのデータインフラ整備検討<br>- Tableau Server管理<br>- Data Warehouse(Google BigQuery)管理|
+
+#### 株式会社エウレカ
+|Term|Organization|Role|Contents|
+|---|---|---|---|
+|2020年03月~現在|T.B.D.|T.B.D.|T.B.D.|
+
 
 ## 資格
 
@@ -74,12 +80,12 @@
 ## スキル
 
 ### [HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](https://tjo.hatenablog.com/entry/2018/10/09/190000)
-- 強化系(モデリング) : 5
+- 強化系(モデリング) : 3
 - 変化系(各種統計分析) : 3
 - 放出系(プログラミング) : 10
-- 具現化系(ドメイン知識) : 3
-- 操作系(データ基盤) : 12
-- 特質系(社会実装) : 10
+- 具現化系(ドメイン知識) : 4
+- 操作系(データ基盤) : 15
+- 特質系(社会実装) : 8
 ![HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](./image/nen.png)
 [Tableau Public](https://public.tableau.com/views/HUNTERHUNTER6/HUNTERHUNTER6?:embed=y&:display_count=yes)
 
@@ -133,6 +139,7 @@
 - HTML
 - CSS
 - R
+- Terraform
 
 ### Middleware
 
@@ -174,26 +181,27 @@
         - [IAM & Admin](https://cloud.google.com/iam/)
         - Security
             - [VPC Service Control](https://cloud.google.com/vpc-service-controls/)
+            - [Access Context Manager](https://cloud.google.com/access-context-manager/docs)
     - Compute
         - [App Engine](https://cloud.google.com/appengine/)
         - [Compute Engine](https://cloud.google.com/compute/)
         - [Cloud Function](https://cloud.google.com/functions/)
     - Storage
         - [Cloud Storage](https://cloud.google.com/storage/)
-            - [Storage Transfer Service](https://cloud.google.com/storage-transfer/docs/)
+        - [Data Transfer](https://cloud.google.com/storage-transfer/docs/)
     - Networking
         - [VPC Network](https://cloud.google.com/vpc/)
-    - [Stackdriver](https://cloud.google.com/stackdriver/)
+    - Operations
         - [Monitoring](https://cloud.google.com/monitoring/)
         - [Debuger](https://cloud.google.com/debugger/)
         - [Trace](https://cloud.google.com/trace/)
         - [Logging](https://cloud.google.com/logging/)
     - Big Data
+        - [Dataproc](https://cloud.google.com/dataflow/)
+        - [Pub/Sub](https://cloud.google.com/pubsub/)
         - [Dataflow](https://cloud.google.com/dataflow/)
         - [BigQuery](https://cloud.google.com/bigquery/)
             - [BigQuery Data Transfer Service](https://cloud.google.com/bigquery/transfer/)
-        - [Pub/Sub](https://cloud.google.com/pubsub/)
-        - [Dataproc](https://cloud.google.com/dataflow/)
         - [Dataprep](https://cloud.google.com/dataprep/)
 - [さくらのクラウド](https://cloud.sakura.ad.jp/)
 - [TREASURE DATA](https://www.treasuredata.co.jp/)
@@ -210,8 +218,25 @@
 - [SQL Server Management Studio(SSMS)](https://docs.microsoft.com/ja-jp/sql/ssms/download-sql-server-management-studio-ssms)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
+## Vision / Mission
+
+### Vision
+
+```
+データの力で世界を変革するトリックスターとして、人々を導く存在となる
+```
+
+### Mission
+
+```
+- データの導き手として、価値あることを正しく伝え、発信する
+- データの導き手として、常にトップランナーであることにこだわる
+- データの導き手として、教育、育成に対して投資を惜しまない
+```
+
 ## 座右の銘
 
+- 価値あることを正しく行う
 - Stay Hungry, Stay Foolish.
 - Simple is the best.
 - 現状に満足せず、常に好奇心を持ち続ける
@@ -294,11 +319,13 @@
         - 重回帰分析を用いてCustomer領域のデータモデルパッケージを試作。
         - 教師なし学習を用いたHR領域の予測モデルを適用。
     - Tableau + Python
-        - 簡単な予測モデルのドラフトを作成。 
+        - 簡単な予測モデルのドラフトを作成。
 
 ### 読書とアウトプット
 
-- 読書ジャンルはビジネス、歴史、哲学などリベラルアーツ全般。
+- ジャンル
+    - ビジネス
+    - 歴史、哲学などリベラルアーツ
 - テーマについて議論したり書評を述べたりするアウトプット(という名の発散)が重要だと考えています。
 - 読書会、輪読会歓迎。
 
@@ -314,9 +341,3 @@
 
 知見と人脈を広げるために、データ人材界隈のイベントに参加したりしています。  
 登壇したりLTに参加し、アウトプットしています。
-
-### 価値あることを正しく行う。正しいことに価値を与えること
-
-[現職の企業理念(バリュー)](https://www.bizreach.co.jp/mission/)にある、 **価値あることを、正しくやろう** という言葉にとても感銘を受けています。  
-特に数字を取り扱ったり、アウトプットする職である以上、正しいことは当然の行動指針であるべきだと考えています。  
-また、正しいことであるにも関わらず価値提供できていないこと(先のエンジニアの地位など)を適切な価値を届けていきたいです。
