@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2020年03月16日現在
+2020年05月05日現在
 
 ## 基本情報
 
@@ -14,6 +14,7 @@
 |note|[Kazuya Araki](https://note.com/jedi_trickstar)|
 |Twitter|[kazuya_araki_jp](https://twitter.com/kazuya_araki_jp)|
 |GitHub|[araki-ka](https://github.com/araki-ka)|
+|Qiita|[Kazuya_Araki_Tokyo](https://qiita.com/Kazuya_Araki_Tokyo)|
 |Bitbucket|[araki-ka](https://bitbucket.org/araki-ka/)|
 |facebook|[Kazuya Araki](https://www.facebook.com/kazuya.araki.tokyo)|
 |Linkedin|[kazuya-araki](https://www.linkedin.com/in/kazuya-araki-65680111a/)|
@@ -66,7 +67,7 @@
 #### 株式会社エウレカ
 |Term|Organization|Role|Contents|
 |---|---|---|---|
-|2020年03月~現在|T.B.D.|T.B.D.|T.B.D.|
+|2020年03月~現在|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart設計、構築、運用保守|
 
 
 ## 資格
@@ -264,6 +265,7 @@
 |2018年11月29日|[「Data Analyst Meetup Tokyo vol.8」に弊社データアナリストが登壇しました！](https://reachone.bizreach.co.jp/entry/2018/11/29/160043)|
 |2019年02月13日|[高校生に向けてAIとBIのデータ活用講座を開催しました！](https://reachone.bizreach.co.jp/entry/2019/02/13/113418)|
 |2019年07月29日|[Tableauが3か月でBI人材を育てるブートキャンプ──企業にデータ分析文化を広めるデータセイバー](https://bizzine.jp/article/detail/3543)|
+|2020年03月30日|[入社エントリー: 3月にエウレカに入社し、BIチームにJOINいたしました荒木です。](https://www.wantedly.com/companies/eureka/post_articles/225086)|
 
 
 ## 興味があるもの
