@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2020年05月05日現在
+2020年08月01日現在
 
 ## 基本情報
 
@@ -67,7 +67,8 @@
 #### 株式会社エウレカ
 |Term|Organization|Role|Contents|
 |---|---|---|---|
-|2020年03月~現在|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart設計、構築、運用保守|
+|2020年03月~2020年07月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart設計、構築、運用保守|
+|2020年08月~現在|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Tableau浸透のためのデータ整備、教育体制計画<br>- Data Warehouse, Data Mart整備|
 
 
 ## 資格
@@ -198,6 +199,7 @@
         - [Trace](https://cloud.google.com/trace/)
         - [Logging](https://cloud.google.com/logging/)
     - Big Data
+        - [Composer](https://cloud.google.com/composer/)
         - [Dataproc](https://cloud.google.com/dataflow/)
         - [Pub/Sub](https://cloud.google.com/pubsub/)
         - [Dataflow](https://cloud.google.com/dataflow/)
@@ -257,7 +259,7 @@
 |2019年10月21日|[Tableauデータサイエンス勉強会 第4回 - 画像認識技術とBIの巻-](https://techplay.jp/event/750555)|
 |2019年11月25日|[第2回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/746910)|
 
-### メディア掲載
+### メディア、ブログ掲載
 
 |Date|Event|
 |---|---|
@@ -314,19 +316,11 @@
 エンジニアではない層は、リテラシーの壁もあって、有効にITを活用できていないファクトもあります。  
 データとテクノロジーの力を使い、非効率業務にイノベーションを起こし、業務効率化を図っています。
 
-### Deep Learning
-
-- R&D的な活動
-    - Deep Learning、機械学習について、業務活用のための試験中。
-        - 重回帰分析を用いてCustomer領域のデータモデルパッケージを試作。
-        - 教師なし学習を用いたHR領域の予測モデルを適用。
-    - Tableau + Python
-        - 簡単な予測モデルのドラフトを作成。
-
 ### 読書とアウトプット
 
 - ジャンル
     - ビジネス
+    - Finance
     - 歴史、哲学などリベラルアーツ
 - テーマについて議論したり書評を述べたりするアウトプット(という名の発散)が重要だと考えています。
 - 読書会、輪読会歓迎。
@@ -343,3 +337,4 @@
 
 知見と人脈を広げるために、データ人材界隈のイベントに参加したりしています。  
 登壇したりLTに参加し、アウトプットしています。
+(2020年02月以降、COVID-19の影響で、オフラインの参加は控えています。)
