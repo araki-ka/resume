@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2020年08月01日現在
+2020年11月15日現在
 
 ## 基本情報
 
@@ -10,7 +10,7 @@
 |生年月日|1982年08月30日|
 |性別|男|
 |血液型|O|
-|居住地|東京都中野区|
+|居住地|東京都港区|
 |note|[Kazuya Araki](https://note.com/jedi_trickstar)|
 |Twitter|[kazuya_araki_jp](https://twitter.com/kazuya_araki_jp)|
 |GitHub|[araki-ka](https://github.com/araki-ka)|
@@ -65,11 +65,12 @@
 |2020年02月~2020年03月|DX推進室|データアナリスト、データアーキテクト|- CSOの意思決定をデータアナリティクスで支援<br>- DBRE、横断プラットフォーム組織とのデータインフラ整備検討<br>- Tableau Server管理<br>- Data Warehouse(Google BigQuery)管理|
 
 #### 株式会社エウレカ
+
 |Term|Organization|Role|Contents|
 |---|---|---|---|
-|2020年03月~2020年07月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart設計、構築、運用保守|
-|2020年08月~現在|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Tableau浸透のためのデータ整備、教育体制計画<br>- Data Warehouse, Data Mart整備|
-
+|2020年03月~2020年06月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart設計、構築、運用保守|
+|2020年07月~2020年09月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart整備<br>- Safety Project|
+|2020年10月~現在|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart整備<br>- Safety Project<br>- Tableau浸透のためのデータ整備、教育体制計画|
 
 ## 資格
 
@@ -82,12 +83,13 @@
 ## スキル
 
 ### [HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](https://tjo.hatenablog.com/entry/2018/10/09/190000)
-- 強化系(モデリング) : 3
+
+- 強化系(モデリング) : 5
 - 変化系(各種統計分析) : 3
-- 放出系(プログラミング) : 10
-- 具現化系(ドメイン知識) : 4
+- 放出系(プログラミング) : 12
+- 具現化系(ドメイン知識) : 2
 - 操作系(データ基盤) : 15
-- 特質系(社会実装) : 8
+- 特質系(社会実装) : 5
 ![HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](./image/nen.png)
 [Tableau Public](https://public.tableau.com/views/HUNTERHUNTER6/HUNTERHUNTER6?:embed=y&:display_count=yes)
 
@@ -104,6 +106,7 @@
     - CentOS
     - RedHat Enterprise Linux(RHEL)
     - Ubuntu
+    - Amazon Linux 2
 
 ### Language
 
@@ -171,6 +174,7 @@
     - SAP BW
 
 ### Cloud
+
 - [AWS](https://aws.amazon.com/jp/)
     - EC2
     - EBS
