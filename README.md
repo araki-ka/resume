@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2020年11月15日現在
+2021年01月21日現在
 
 ## 基本情報
 
@@ -11,11 +11,10 @@
 |性別|男|
 |血液型|O|
 |居住地|東京都港区|
-|note|[Kazuya Araki](https://note.com/jedi_trickstar)|
 |Twitter|[kazuya_araki_jp](https://twitter.com/kazuya_araki_jp)|
 |GitHub|[araki-ka](https://github.com/araki-ka)|
 |Qiita|[Kazuya_Araki_Tokyo](https://qiita.com/Kazuya_Araki_Tokyo)|
-|Bitbucket|[araki-ka](https://bitbucket.org/araki-ka/)|
+|note|[Kazuya Araki](https://note.com/jedi_trickstar)|
 |facebook|[Kazuya Araki](https://www.facebook.com/kazuya.araki.tokyo)|
 |Linkedin|[kazuya-araki](https://www.linkedin.com/in/kazuya-araki-65680111a/)|
 |SlideShare|[Kazuya Araki](https://www.slideshare.net/KazuyaARAKI)|
@@ -27,7 +26,7 @@
 |Term|Company|
 |---|---|
 |2007年05月~2013年08月|[アロウズ・システム株式会社](http://www.arouse.co.jp/)|
-|2013年09月~2017年04月|[株式会社レジェンド・アプリケーションズ](http://www.legendapl.com/)(現、[株式会社ラキール](https://lakeel.com/))|
+|2013年09月~2017年04月|株式会社レジェンド・アプリケーションズ(現、[株式会社ラキール](https://lakeel.com/))|
 |2017年05月~2020年03月|[株式会社ビズリーチ](http://www.bizreach.co.jp/)|
 |2020年03月~現在|[株式会社エウレカ](https://eure.jp/)|
 
@@ -70,7 +69,8 @@
 |---|---|---|---|
 |2020年03月~2020年06月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart設計、構築、運用保守|
 |2020年07月~2020年09月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart整備<br>- Safety Project|
-|2020年10月~現在|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart整備<br>- Safety Project<br>- Tableau浸透のためのデータ整備、教育体制計画|
+|2020年10月~2020年12月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart整備<br>- Safety Project<br>- Tableau浸透のためのデータ整備、教育体制計画|
+|2021年01月~現在|BI Team|Data Analyst and Data Engineer|- Business KPI, Brand KPIのモニタリング環境整備<br>- ヘルスチェック用レポートのエンハンス(Tableau化、パフォーマンス改善、運用改善)<br>- Safety Project|
 
 ## 資格
 
@@ -191,24 +191,23 @@
     - Compute
         - [App Engine](https://cloud.google.com/appengine/)
         - [Compute Engine](https://cloud.google.com/compute/)
-        - [Cloud Function](https://cloud.google.com/functions/)
+        - [Cloud Functions](https://cloud.google.com/functions/)
     - Storage
         - [Cloud Storage](https://cloud.google.com/storage/)
-        - [Data Transfer](https://cloud.google.com/storage-transfer/docs/)
+        - [Storage Transfer Service](https://cloud.google.com/storage-transfer/docs/)
     - Networking
-        - [VPC Network](https://cloud.google.com/vpc/)
+        - [Virtual Private Cloud](https://cloud.google.com/vpc/)
     - Operations
-        - [Monitoring](https://cloud.google.com/monitoring/)
-        - [Debuger](https://cloud.google.com/debugger/)
-        - [Trace](https://cloud.google.com/trace/)
-        - [Logging](https://cloud.google.com/logging/)
+        - [Cloud Monitoring](https://cloud.google.com/monitoring/)
+        - [Cloud Debuger](https://cloud.google.com/debugger/)
+        - [Cloud Trace](https://cloud.google.com/trace/)
+        - [Cloud Logging](https://cloud.google.com/logging/)
     - Big Data
-        - [Composer](https://cloud.google.com/composer/)
-        - [Dataproc](https://cloud.google.com/dataflow/)
-        - [Pub/Sub](https://cloud.google.com/pubsub/)
+        - [Cloud Composer](https://cloud.google.com/composer/)
         - [Dataflow](https://cloud.google.com/dataflow/)
+        - [Pub/Sub](https://cloud.google.com/pubsub/)
         - [BigQuery](https://cloud.google.com/bigquery/)
-            - [BigQuery Data Transfer Service](https://cloud.google.com/bigquery/transfer/)
+            - [BigQuery Data Transfer Service](https://cloud.google.com/bigquery-transfer/docs)
         - [Dataprep](https://cloud.google.com/dataprep/)
 - [さくらのクラウド](https://cloud.sakura.ad.jp/)
 - [TREASURE DATA](https://www.treasuredata.co.jp/)
@@ -236,17 +235,17 @@
 ### Mission
 
 ```
-- データの導き手として、価値あることを正しく伝え、発信する
-- データの導き手として、常にトップランナーであることにこだわる
-- データの導き手として、教育、育成に対して投資を惜しまない
+- データの導き手として、価値あることを正しく発信する
+- データの導き手として、常にトップランナーであり続ける
+- データの導き手として、教育、育成への投資を行う
 ```
 
 ## 座右の銘
 
 - 価値あることを正しく行う
+- 現状に満足せず、常に好奇心を持ち続ける
 - Stay Hungry, Stay Foolish.
 - Simple is the best.
-- 現状に満足せず、常に好奇心を持ち続ける
 - Time Is Money.
 
 ## 実績
@@ -262,6 +261,7 @@
 |2019年08月19日|[第1回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/743100)|
 |2019年10月21日|[Tableauデータサイエンス勉強会 第4回 - 画像認識技術とBIの巻-](https://techplay.jp/event/750555)|
 |2019年11月25日|[第2回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/746910)|
+|2021年01月25日|[BIツールカジュアル座談会 ~Redash と Metabae~](https://bitoollabo.connpass.com/event/199913/)|
 
 ### メディア、ブログ掲載
 
@@ -310,7 +310,7 @@
         - BigQuery基礎ハンズオン
         - Tableau 社内Classroom
         - Standard SQL 社内Classroom
-    - アドバイザー
+    - アドバイザーとして
         - Tableau
         - Python
         - Java(+ Spring Framework)
@@ -331,14 +331,24 @@
 
 ## どんなことがしたいか？
 
-### データ活用人材の育成、価値向上
+### 社会貢献度の高いデータを安心安全に利活用したい
 
-データリテラシーの高い人材が今後の業務のあり方を変えていくと考えています。  
-データアナリスト、データサイエンティストなど、データに携わる職種の価値を欧米諸国並に向上させたいです。  
-(ただ、現状はデータリテラシーとビジネススキルの双方を持ち合わせた人材はなかなか市場にはいないのが現実です)
+COVID-19のデータ利活用が進んでいます。  
+[新型コロナウイルス 国内感染の状況 - 東洋経済オンライン](https://toyokeizai.net/sp/visual/tko/covid19/)  
+[東京都 新型コロナウイルス感染症対策サイト](https://stopcovid19.metro.tokyo.lg.jp/)  
+COVID-19に限らず、世の中にある様々なデータを安心安全に利活用できないか、常々考えています。  
+- 安心安全なデータプラットフォームが提供できないか？
+- 人間の可処分時間を費やすことなく、持続的かつ継続的に正しいデータを取得できないか？
+- 個人情報保護法、GDPRといった各種法律を踏まえた活動、啓蒙ができないか？
+- 場合によってはビジネスチャンスにつながるようなことができないか？
+
+### データ活用人材の育成、データ人材の市場価値向上
+
+データリテラシーの高い人材が今後のビジネスのあり方を変えていくと考えています。  
+データアナリスト、データサイエンティスト、データエンジニアなど、データに携わる職種の価値を欧米諸国並に向上させたいです。  
 
 ### データ人材界隈イベント
 
 知見と人脈を広げるために、データ人材界隈のイベントに参加したりしています。  
 登壇したりLTに参加し、アウトプットしています。
-(2020年02月以降、COVID-19の影響で、オフラインの参加は控えています。)
+(2020年02月以降、COVID-19の影響で、オフラインでの参加は控えています。)
