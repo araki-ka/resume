@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2021年01月21日現在
+2022年02月22日現在
 
 ## 基本情報
 
@@ -70,7 +70,8 @@
 |2020年03月~2020年06月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart設計、構築、運用保守|
 |2020年07月~2020年09月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart整備<br>- Safety Project|
 |2020年10月~2020年12月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart整備<br>- Safety Project<br>- Tableau浸透のためのデータ整備、教育体制計画|
-|2021年01月~現在|BI Team|Data Analyst and Data Engineer|- Business KPI, Brand KPIのモニタリング環境整備<br>- ヘルスチェック用レポートのエンハンス(Tableau化、パフォーマンス改善、運用改善)<br>- Safety Project|
+|2021年01月~2021年12月|BI Team|Data Analyst and Data Engineer|- Business KPI, Brand KPIのモニタリング環境整備<br>- ヘルスチェック用レポートのエンハンス(Tableau化、パフォーマンス改善、運用改善)<br>- Safety Project|
+|2022年01月~現在|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Safety Project|
 
 ## 資格
 
@@ -252,7 +253,7 @@
 
 ### 登壇
 
-|Date|Event|
+|Date|Title|
 |---|---|
 |2018年09月26日|Data Peopleの為の勉強会\~eureka×Leverages×BizReach\~|
 |2018年10月01日|Tableau Server運用管理者ミートアップ|
@@ -265,13 +266,19 @@
 
 ### メディア、ブログ掲載
 
-|Date|Event|
+|Date|Title|
 |---|---|
 |2018年07月18日|[データの力で、事業を加速する｜BIグループの仕事を公開！](https://reachone.bizreach.co.jp/entry/2018/07/18/145421)|
 |2018年11月29日|[「Data Analyst Meetup Tokyo vol.8」に弊社データアナリストが登壇しました！](https://reachone.bizreach.co.jp/entry/2018/11/29/160043)|
 |2019年02月13日|[高校生に向けてAIとBIのデータ活用講座を開催しました！](https://reachone.bizreach.co.jp/entry/2019/02/13/113418)|
 |2019年07月29日|[Tableauが3か月でBI人材を育てるブートキャンプ──企業にデータ分析文化を広めるデータセイバー](https://bizzine.jp/article/detail/3543)|
 |2020年03月30日|[入社エントリー: 3月にエウレカに入社し、BIチームにJOINいたしました荒木です。](https://www.wantedly.com/companies/eureka/post_articles/225086)|
+
+### 著書
+
+|Date|Title|
+|---|---|
+|2022年03月01日|[動き出すデータドリブン組織のつくりかた Tableau Blueprintに学ぶ実践的アプローチ](https://amzn.to/3gOvJC9)|
 
 
 ## 興味があるもの
@@ -351,4 +358,3 @@ COVID-19に限らず、世の中にある様々なデータを安心安全に利
 
 知見と人脈を広げるために、データ人材界隈のイベントに参加したりしています。  
 登壇したりLTに参加し、アウトプットしています。
-(2020年02月以降、COVID-19の影響で、オフラインでの参加は控えています。)
