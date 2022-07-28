@@ -1,6 +1,6 @@
 # 職務経歴書
 
-2022年02月22日現在
+2022年07月28日現在
 
 ## 基本情報
 
@@ -71,7 +71,8 @@
 |2020年07月~2020年09月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart整備<br>- Safety Project|
 |2020年10月~2020年12月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart整備<br>- Safety Project<br>- Tableau浸透のためのデータ整備、教育体制計画|
 |2021年01月~2021年12月|BI Team|Data Analyst and Data Engineer|- Business KPI, Brand KPIのモニタリング環境整備<br>- ヘルスチェック用レポートのエンハンス(Tableau化、パフォーマンス改善、運用改善)<br>- Safety Project|
-|2022年01月~現在|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Safety Project|
+|2022年01月~2022年03月|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Safety Project|
+|2022年04月~現在|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Pairs Core Dashboard Project|
 
 ## 資格
 
@@ -225,6 +226,20 @@
 - [SQL Server Management Studio(SSMS)](https://docs.microsoft.com/ja-jp/sql/ssms/download-sql-server-management-studio-ssms)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
+### Tools
+
+- BI
+    - [Tableau](https://www.tableau.com/)
+    - [Power BI](https://powerbi.microsoft.com/en-us/)
+    - [Google Data Studio](https://marketingplatform.google.com/about/data-studio/)
+    - [redash](https://redash.io/)
+    - [Apache Superset](https://superset.apache.org/)
+    - [metabase](https://www.metabase.com/)
+- ELT
+    - [dbt](https://www.getdbt.com/)
+    - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
+
+
 ## Vision / Mission
 
 ### Vision
@@ -262,7 +277,7 @@
 |2019年08月19日|[第1回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/743100)|
 |2019年10月21日|[Tableauデータサイエンス勉強会 第4回 - 画像認識技術とBIの巻-](https://techplay.jp/event/750555)|
 |2019年11月25日|[第2回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/746910)|
-|2021年01月25日|[BIツールカジュアル座談会 ~Redash と Metabae~](https://bitoollabo.connpass.com/event/199913/)|
+|2021年01月25日|[BIツールカジュアル座談会 ~Redash と Metabase~](https://bitoollabo.connpass.com/event/199913/)|
 
 ### メディア、ブログ掲載
 
@@ -274,6 +289,8 @@
 |2019年07月29日|[Tableauが3か月でBI人材を育てるブートキャンプ──企業にデータ分析文化を広めるデータセイバー](https://bizzine.jp/article/detail/3543)|
 |2020年03月30日|[入社エントリー: 3月にエウレカに入社し、BIチームにJOINいたしました荒木です。](https://www.wantedly.com/companies/eureka/post_articles/225086)|
 |2021年12月14日|[redashの断捨離を実施したので、方法を共有します](https://medium.com/eureka-engineering/redash%E3%81%AE%E6%96%AD%E6%8D%A8%E9%9B%A2%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7-%E6%96%B9%E6%B3%95%E3%82%92%E5%85%B1%E6%9C%89%E3%81%97%E3%81%BE%E3%81%99-9ffaeaccc910)|
+|2022年07月25日|[第5回 BIツールを用いたデータ可視化業務の要件定義プロセス - BIツールユーザーによる、BIツールユーザーのための、BIツールのトリセツ](https://data.wingarc.com/all-about_bitool_05-43435)|
+|2022年07月25日|[第7回レポート・ダッシュボードの断捨離の重要性 - BIツールユーザーによる、BIツールユーザーのための、BIツールのトリセツ](https://data.wingarc.com/all-about_bitool_07-43472)|
 
 ### 著書
 
@@ -305,6 +322,7 @@
         - Tableau Desktop
         - Tableau Prep Builder
         - Tableau Server
+        - Tableau Online
     - Google
         - Data Studio
         - BigQuery
@@ -358,4 +376,4 @@ COVID-19に限らず、世の中にある様々なデータを安心安全に利
 ### データ人材界隈イベント
 
 知見と人脈を広げるために、データ人材界隈のイベントに参加したりしています。  
-登壇したりLTに参加し、アウトプットしています。
+機会があれば登壇しております。
