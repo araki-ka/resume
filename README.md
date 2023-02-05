@@ -1,20 +1,21 @@
 # 職務経歴書
 
-2022年07月28日現在
+2023年02月05日現在
 
 ## 基本情報
 
 |Key|Value|
 |---|---|
-|氏名|荒木 和也|
-|生年月日|1982年08月30日|
-|性別|男|
+|氏名|荒木 和也 / Kazuya Araki|
+|生年月日|1982年08月30日 / August 30, 1982|
+|性別|男 / Mele|
 |血液型|O|
-|居住地|東京都港区|
+|居住地|東京都港区 / Minato-ku, Tokyo, Japan|
 |Twitter|[kazuya_araki_jp](https://twitter.com/kazuya_araki_jp)|
 |GitHub|[araki-ka](https://github.com/araki-ka)|
 |Qiita|[Kazuya_Araki_Tokyo](https://qiita.com/Kazuya_Araki_Tokyo)|
 |note|[Kazuya Araki](https://note.com/jedi_trickstar)|
+|Medium|[kazuya.araki](https://medium.com/@kazuya.araki)|
 |facebook|[Kazuya Araki](https://www.facebook.com/kazuya.araki.tokyo)|
 |Linkedin|[kazuya-araki](https://www.linkedin.com/in/kazuya-araki-65680111a/)|
 |SlideShare|[Kazuya Araki](https://www.slideshare.net/KazuyaARAKI)|
@@ -72,7 +73,8 @@
 |2020年10月~2020年12月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart整備<br>- Safety Project<br>- Tableau浸透のためのデータ整備、教育体制計画|
 |2021年01月~2021年12月|BI Team|Data Analyst and Data Engineer|- Business KPI, Brand KPIのモニタリング環境整備<br>- ヘルスチェック用レポートのエンハンス(Tableau化、パフォーマンス改善、運用改善)<br>- Safety Project|
 |2022年01月~2022年03月|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Safety Project|
-|2022年04月~現在|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Pairs Core Dashboard Project|
+|2022年04月~2023年01月|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Pairs Core Dashboard Project|
+|2023年02月~現在|Data Management Team|Data Engineer|- 新データ分析基盤構築<br>- ログ基盤刷新Project|
 
 ## 資格
 
@@ -80,7 +82,7 @@
 - TOEIC 600
 - 普通自動車運転免許(AT限定)
 - 統計検定3級
-- [Tableau DATA Saber](https://public.tableau.com/profile/data.saber#!/vizhome/DATASabers/DATASabers)(a.k.a. Trickstar)
+- [DATA Saber](https://datasaber.world/) a.k.a. Trickstar
 
 ## スキル
 
@@ -93,52 +95,52 @@
 - 操作系(データ基盤) : 15
 - 特質系(社会実装) : 5
 ![HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](./image/nen.png)
-[Tableau Public](https://public.tableau.com/views/HUNTERHUNTER6/HUNTERHUNTER6?:embed=y&:display_count=yes)
+[Tableau Public](https://public.tableau.com/app/profile/kazuya.araki/viz/HUNTERHUNTER6/HUNTERHUNTER6?:embed=y&:display_count=yes)
 
 
 ### Portfolio
 
-- [Tableau Public](https://public.tableau.com/profile/kazuya.araki#!/)
+- [Tableau Public](https://public.tableau.com/app/profile/kazuya.araki#!/)
 
 ### OS
 
 - Windows
 - macOS
 - Linux
-    - CentOS
-    - RedHat Enterprise Linux(RHEL)
-    - Ubuntu
-    - Amazon Linux 2
+  - CentOS
+  - RedHat Enterprise Linux(RHEL)
+  - Ubuntu
+  - Amazon Linux 2
 
 ### Language
 
 - Java
-    - Spring Framework
-    - Oracle JDK
-    - Android SDK
-    - Java EE
+  - Spring Framework
+  - Oracle JDK
+  - Android SDK
+  - Java EE
 - JavaScript
-    - Anguler
-    - Node.js
-    - JQuery
+  - Anguler
+  - Node.js
+  - JQuery
 - Python
-    - pip
-    - Pyenv
-    - Django
-    - Anaconda
-    - Deep Learning
-        - numpy
-        - matplotlib
-        - etc...
-    - ML
-        - TensorFlow
-        - scikit-learn
-        - Chainer
-        - etc...
+  - pip
+  - Pyenv
+  - Django
+  - Anaconda
+  - Deep Learning
+    - numpy
+    - matplotlib
+    - etc...
+  - ML
+    - TensorFlow
+    - scikit-learn
+    - Chainer
+    - etc...
 - Swift
-    - Express
+  - Express
 - Objective-C
-    - CocoaPods
+  - CocoaPods
 - PHP
 - C#
 - VB.Net
@@ -151,66 +153,66 @@
 ### Middleware
 
 - Web Server
-    - Apache HTTP Server
-    - Nginx
+  - Apache HTTP Server
+  - Nginx
 - Application Server
-    - Tomcat
-    - JBoss
-    - IIS
-    - WebSphere Application Server
+  - Tomcat
+  - JBoss
+  - IIS
+  - WebSphere Application Server
 - Database
-    - RDBMS
-        - MySQL
-        - MariaDB
-        - PostgreSQL
-        - Microsoft SQL Server
-        - Microsoft Access
-        - Oracle Database
-        - SQLite
-        - Persto
-    - NoSQL
-        - MongoDB
-        - Apache Cassandra
-        - Neo4j
+  - RDBMS
+    - MySQL
+    - MariaDB
+    - PostgreSQL
+    - Microsoft SQL Server
+    - Microsoft Access
+    - Oracle Database
+    - SQLite
+    - Persto
+  - NoSQL
+    - MongoDB
+    - Apache Cassandra
+    - Neo4j
 - Data Warehouse
-    - SAP BW
+  - SAP BW
 
 ### Cloud
 
 - [AWS](https://aws.amazon.com/jp/)
-    - EC2
-    - EBS
-    - S3
-    - SQS
-    - Redshift
-    - CloudWatch
-- [Google Cloud Platform](https://cloud.google.com/?hl=ja)
-    - Products
-        - [IAM & Admin](https://cloud.google.com/iam/)
-        - Security
-            - [VPC Service Control](https://cloud.google.com/vpc-service-controls/)
-            - [Access Context Manager](https://cloud.google.com/access-context-manager/docs)
-    - Compute
-        - [App Engine](https://cloud.google.com/appengine/)
-        - [Compute Engine](https://cloud.google.com/compute/)
-        - [Cloud Functions](https://cloud.google.com/functions/)
-    - Storage
-        - [Cloud Storage](https://cloud.google.com/storage/)
-        - [Storage Transfer Service](https://cloud.google.com/storage-transfer/docs/)
-    - Networking
-        - [Virtual Private Cloud](https://cloud.google.com/vpc/)
-    - Operations
-        - [Cloud Monitoring](https://cloud.google.com/monitoring/)
-        - [Cloud Debuger](https://cloud.google.com/debugger/)
-        - [Cloud Trace](https://cloud.google.com/trace/)
-        - [Cloud Logging](https://cloud.google.com/logging/)
-    - Big Data
-        - [Cloud Composer](https://cloud.google.com/composer/)
-        - [Dataflow](https://cloud.google.com/dataflow/)
-        - [Pub/Sub](https://cloud.google.com/pubsub/)
-        - [BigQuery](https://cloud.google.com/bigquery/)
-            - [BigQuery Data Transfer Service](https://cloud.google.com/bigquery-transfer/docs)
-        - [Dataprep](https://cloud.google.com/dataprep/)
+  - EC2
+  - EBS
+  - S3
+  - SQS
+  - Redshift
+  - CloudWatch
+- [Google Cloud Platform](https://cloud.google.com)
+  - [IAM & Admin](https://cloud.google.com/iam/)
+  - Security
+    - Zero Trust
+      - [VPC Service Control](https://cloud.google.com/vpc-service-controls/)
+      - [Access Context Manager](https://cloud.google.com/access-context-manager/docs)
+  - Compute
+    - [Compute Engine](https://cloud.google.com/compute/)
+  - Serverless
+    - [Cloud Functions](https://cloud.google.com/functions/)
+    - [App Engine](https://cloud.google.com/appengine/)
+  - Storage
+    - [Cloud Storage](https://cloud.google.com/storage/)
+  - Networking
+    - [VPC Network](https://cloud.google.com/vpc/)
+  - Operations
+    - [Monitoring](https://cloud.google.com/monitoring/)
+    - [Debuger](https://cloud.google.com/debugger/)
+    - [Logging](https://cloud.google.com/logging/)
+    - [Trace](https://cloud.google.com/trace/)
+  - Analytics
+    - [Composer](https://cloud.google.com/composer/)
+    - [Pub/Sub](https://cloud.google.com/pubsub/)
+    - [Dataflow](https://cloud.google.com/dataflow/)
+    - [BigQuery](https://cloud.google.com/bigquery/)
+    - [Data Catalog](https://cloud.google.com/dataplex)
+    - [Dataprep](https://cloud.google.com/dataprep/)
 - [さくらのクラウド](https://cloud.sakura.ad.jp/)
 - [TREASURE DATA](https://www.treasuredata.co.jp/)
 
@@ -219,9 +221,9 @@
 - [Eclipse](https://www.eclipse.org/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [Light Table](http://lighttable.com/)
-- [Xcode](https://developer.apple.com/jp/xcode/)
-- [Android Studio](https://developer.android.com/studio/index.html)
-- [Visual Studio](https://www.microsoft.com/ja-jp/dev/default.aspx)
+- [Xcode](https://developer.apple.com/xcode/)
+- [Android Studio](https://developer.android.com/studio)
+- [Visual Studio](https://visualstudio.microsoft.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [SQL Server Management Studio(SSMS)](https://docs.microsoft.com/ja-jp/sql/ssms/download-sql-server-management-studio-ssms)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
@@ -229,16 +231,18 @@
 ### Tools
 
 - BI
-    - [Tableau](https://www.tableau.com/)
-    - [Power BI](https://powerbi.microsoft.com/en-us/)
-    - [Google Data Studio](https://marketingplatform.google.com/about/data-studio/)
-    - [redash](https://redash.io/)
-    - [Apache Superset](https://superset.apache.org/)
-    - [metabase](https://www.metabase.com/)
+  - [Tableau](https://www.tableau.com/)
+  - [Power BI](https://powerbi.microsoft.com/en-us/)
+  - [Looker Studio](https://cloud.google.com/looker-studio)
+  - [redash](https://redash.io/)
+  - [Apache Superset](https://superset.apache.org/)
+  - [metabase](https://www.metabase.com/)
 - ELT
-    - [dbt](https://www.getdbt.com/)
-    - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
-
+  - [dbt](https://www.getdbt.com/)
+  - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
+- Workflow, Orchestration
+    - [Apache Airflow](https://airflow.apache.org/)
+    - [Dagster](https://dagster.io/)
 
 ## Vision / Mission
 
@@ -314,32 +318,33 @@
 データサイエンスは、マーケティングと親和性の高い分野です。  
 そのため、これまでの知見を基に、マーケティング施策に転じることのできるテーマとして着目しています。  
 直近はデジタルマーケティングにつながる以下の活動をしています。
+
 - データ分析基盤の設計、構築、運用
-    - Google BigQuery
-    - ARM Treasure Data
+  - Google BigQuery
+  - ARM Treasure Data
 - データ利活用アドバイザー
-    - Tableau Doctor(Tableauに関するアドバイス、コーチング)
-        - Tableau Desktop
-        - Tableau Prep Builder
-        - Tableau Server
-        - Tableau Online
-    - Google
-        - Data Studio
-        - BigQuery
+  - Tableau Doctor(Tableauに関するアドバイス、コーチング)
+    - Tableau Desktop
+    - Tableau Prep Builder
+    - Tableau Server
+    - Tableau Online
+  - Google
+    - Looker Studio
+    - BigQuery
 
 #### データ × エンジニアリング × 教育 = 非エンジニアに対してのテクノロジー教育
 
 - 実績
-    - 主催
-        - SQL勉強会
-        - 構成管理(Git)ハンズオン
-        - BigQuery基礎ハンズオン
-        - Tableau 社内Classroom
-        - Standard SQL 社内Classroom
-    - アドバイザーとして
-        - Tableau
-        - Python
-        - Java(+ Spring Framework)
+  - 主催
+    - SQL勉強会
+    - 構成管理(Git)ハンズオン
+    - BigQuery基礎ハンズオン
+    - Tableau 社内Classroom
+    - Standard SQL 社内Classroom
+  - アドバイザーとして
+    - Tableau
+    - Python
+    - Java(+ Spring Framework)
 
 #### データ × 業務効率化
 
@@ -349,9 +354,9 @@
 ### 読書とアウトプット
 
 - ジャンル
-    - ビジネス
-    - Finance
-    - 歴史、哲学などリベラルアーツ
+  - ビジネス
+  - Finance
+  - 歴史、哲学などリベラルアーツ
 - テーマについて議論したり書評を述べたりするアウトプット(という名の発散)が重要だと考えています。
 - 読書会、輪読会歓迎。
 
