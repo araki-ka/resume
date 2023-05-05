@@ -1,24 +1,36 @@
 # 職務経歴書
 
-2023年02月05日現在
+*2023年05月05日*現在
 
 ## 基本情報
 
-|Key|Value|
-|---|---|
-|氏名|荒木 和也 / Kazuya Araki|
-|生年月日|1982年08月30日 / August 30, 1982|
-|性別|男 / Mele|
-|血液型|O|
-|居住地|東京都港区 / Minato-ku, Tokyo, Japan|
-|Twitter|[kazuya_araki_jp](https://twitter.com/kazuya_araki_jp)|
-|GitHub|[araki-ka](https://github.com/araki-ka)|
-|Qiita|[Kazuya_Araki_Tokyo](https://qiita.com/Kazuya_Araki_Tokyo)|
-|note|[Kazuya Araki](https://note.com/jedi_trickstar)|
-|Medium|[kazuya.araki](https://medium.com/@kazuya.araki)|
-|facebook|[Kazuya Araki](https://www.facebook.com/kazuya.araki.tokyo)|
-|Linkedin|[kazuya-araki](https://www.linkedin.com/in/kazuya-araki-65680111a/)|
-|SlideShare|[Kazuya Araki](https://www.slideshare.net/KazuyaARAKI)|
+### 氏名 / Full Name
+
+荒木 和也 / Kazuya Araki
+
+### 生年月日 / Date of Birth
+
+1982年08月30日 / August 30, 1982
+
+### 性別 / Sex
+
+男 / Mele
+
+### 居住地 / Residence
+
+東京都 / Tokyo, Japan
+
+### SNS etc.
+
+- [Twitter - kazuya_araki_jp](https://twitter.com/kazuya_araki_jp)
+- [GitHub - araki-ka](https://github.com/araki-ka)
+- [Qiita - Kazuya_Araki_Tokyo](https://qiita.com/Kazuya_Araki_Tokyo)
+- [note - Kazuya Araki](https://note.com/jedi_trickstar)
+- [Medium - kazuya.araki](https://medium.com/@kazuya.araki)
+- [facebook - Kazuya Araki](https://www.facebook.com/kazuya.araki.tokyo)
+- [Linkedin - kazuya-araki](https://www.linkedin.com/in/kazuya-araki-65680111a/)
+- [SlideShare - Kazuya Araki](https://www.slideshare.net/KazuyaARAKI)|
+- [Speaker Deck](https://speakerdeck.com/kazuya_araki_tokyo)
 
 ## 職務経歴
 
@@ -88,12 +100,12 @@
 
 ### [HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](https://tjo.hatenablog.com/entry/2018/10/09/190000)
 
-- 強化系(モデリング) : 5
-- 変化系(各種統計分析) : 3
-- 放出系(プログラミング) : 12
-- 具現化系(ドメイン知識) : 2
+- 強化系(モデリング) : 1
+- 変化系(各種統計分析) : 1
+- 放出系(プログラミング) : 15
+- 具現化系(ドメイン知識) : 10
 - 操作系(データ基盤) : 15
-- 特質系(社会実装) : 5
+- 特質系(社会実装) : 1
 ![HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](./image/nen.png)
 [Tableau Public](https://public.tableau.com/app/profile/kazuya.araki/viz/HUNTERHUNTER6/HUNTERHUNTER6?:embed=y&:display_count=yes)
 
@@ -282,6 +294,7 @@
 |2019年10月21日|[Tableauデータサイエンス勉強会 第4回 - 画像認識技術とBIの巻-](https://techplay.jp/event/750555)|
 |2019年11月25日|[第2回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/746910)|
 |2021年01月25日|[BIツールカジュアル座談会 ~Redash と Metabase~](https://bitoollabo.connpass.com/event/199913/)|
+|2023年04月24日|[Tableauユーザー会](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
 
 ### メディア、ブログ掲載
 
