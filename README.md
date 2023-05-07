@@ -1,24 +1,26 @@
 # 職務経歴書
 
-*2023年05月05日*現在
+*2023年05月06日*現在
+
+[英語版職務経歴書はこちら](./README_EN.md)
 
 ## 基本情報
 
-### 氏名 / Full Name
+### 氏名
 
-荒木 和也 / Kazuya Araki
+荒木 和也
 
-### 生年月日 / Date of Birth
+### 生年月日
 
-1982年08月30日 / August 30, 1982
+1982年08月30日
 
-### 性別 / Sex
+### 性別
 
-男 / Mele
+男
 
-### 居住地 / Residence
+### 居住地
 
-東京都 / Tokyo, Japan
+東京都
 
 ### SNS etc.
 
@@ -29,64 +31,64 @@
 - [Medium - kazuya.araki](https://medium.com/@kazuya.araki)
 - [facebook - Kazuya Araki](https://www.facebook.com/kazuya.araki.tokyo)
 - [Linkedin - kazuya-araki](https://www.linkedin.com/in/kazuya-araki-65680111a/)
-- [SlideShare - Kazuya Araki](https://www.slideshare.net/KazuyaARAKI)|
+- [SlideShare - Kazuya Araki](https://www.slideshare.net/KazuyaARAKI)
 - [Speaker Deck](https://speakerdeck.com/kazuya_araki_tokyo)
 
 ## 職務経歴
 
 ### 概要
 
-|Term|Company|
+|在籍期間|社名|
 |---|---|
-|2007年05月~2013年08月|[アロウズ・システム株式会社](http://www.arouse.co.jp/)|
-|2013年09月~2017年04月|株式会社レジェンド・アプリケーションズ(現、[株式会社ラキール](https://lakeel.com/))|
-|2017年05月~2020年03月|[株式会社ビズリーチ](http://www.bizreach.co.jp/)|
-|2020年03月~現在|[株式会社エウレカ](https://eure.jp/)|
+|2007年05月 ~ 2013年08月|[アロウズ・システム株式会社](http://www.arouse.co.jp/)|
+|2013年09月 ~ 2017年04月|株式会社レジェンド・アプリケーションズ(現、[株式会社ラキール](https://www.lakeel.com/ja/index.html))|
+|2017年05月 ~ 2020年03月|[株式会社ビズリーチ](http://www.bizreach.co.jp/)|
+|2020年03月 ~ 現在|[株式会社エウレカ](https://eure.jp/)|
 
 ### 詳細
 
 #### アロウズ・システム株式会社
 
-|Term|Organization|Role|Contents|
+|期間|所属組織|職位|内容|
 |---|---|---|---|
-|2007年05月~2011年04月|オープンシステム開発部|システムエンジニア メンバー|- SAP製品アドイン開発(Java, ABAP)<br>- Webアプリケーション開発(Java, PHP)|
-|2011年04月~2012年10月|オープンシステム開発部|システムエンジニア メンバー~リーダー|受託開発(tier 1~tier 3)|
-|2012年11月~2013年08月|オープンシステム開発部|システムエンジニア メンバー -> 開発リーダー|- オープンWebシステムの運用保守<br>- 小規模〜中規模程度のシステム改修案件|
+|2007年05月 ~ 2011年04月|オープンシステム開発部|システムエンジニア メンバー|- SAP製品アドイン開発(Java, ABAP)<br>- Webアプリケーション開発(Java, PHP)|
+|2011年04月 ~ 2012年10月|オープンシステム開発部|システムエンジニア メンバー ~ リーダー|受託開発(tier 1 ~ tier 3)|
+|2012年11月 ~ 2013年08月|オープンシステム開発部|システムエンジニア メンバー -> 開発リーダー|- オープンWebシステムの運用保守<br>- 小規模〜中規模程度のシステム改修案件|
 
 #### 株式会社レジェンド・アプリケーションズ
 
-|Term|Organization|Role|Contents|
+|期間|所属組織|職位|内容|
 |---|---|---|---|
-|2013年09月~2014年09月|プロダクト開発本部 LaKeel開発グループ LWF開発チーム|フロントエンドエンジニア -> バックエンドエンジニア -> プロダクトリーダー|ワークフローパッケージ「LaKeel Workflow」製品開発|
-|2014年10月~2015年01月|AMS開発本部|テスト自動化チームリーダー|Webアプリケーション構築プロジェクト瑕疵対応|
-|2015年02月~2016年07月|プロダクト開発本部 LaKeel開発グループ CM開発チーム|アプリケーションエンジニア -> プロダクトリーダー、アーキテクト|ビジネス用チャットパッケージ「COMPANY Messenger(現[LaKeel Messenger](https://messenger.lakeel.com/))」製品開発|
-|2016年08月~2017年04月|プロダクト開発本部 LaKeel開発グループ LBI開発チーム|プロダクトマネージャー、アーキテクト、PMO|Business Intelligenceパッケージ「[LaKeel BI](https://bi.lakeel.com/)」製品開発|
+|2013年09月 ~ 2014年09月|プロダクト開発本部 LaKeel開発グループ LWF開発チーム|フロントエンドエンジニア -> バックエンドエンジニア -> プロダクトリーダー|ワークフローパッケージ「LaKeel Workflow」製品開発|
+|2014年10月 ~ 2015年01月|AMS開発本部|テスト自動化チームリーダー|Webアプリケーション構築プロジェクト瑕疵対応|
+|2015年02月 ~ 2016年07月|プロダクト開発本部 LaKeel開発グループ CM開発チーム|アプリケーションエンジニア -> プロダクトリーダー、アーキテクト|ビジネス用チャットパッケージ「COMPANY Messenger(現[LaKeel Messenger](https://messenger.lakeel.com/))」製品開発|
+|2016年08月 ~ 2017年04月|プロダクト開発本部 LaKeel開発グループ LBI開発チーム|プロダクトマネージャー、アーキテクト、PMO|Business Intelligenceパッケージ「[LaKeel BI](https://bi.lakeel.com/)」製品開発|
 
 #### 株式会社ビズリーチ
 
-|Term|Organization|Role|Contents|
+|期間|所属組織|職位|内容|
 |---|---|---|---|
-|2017年05月~2017年12月|事業戦略部 BIグループ|データアナリスト|- ビズリーチサービスデータ抽出、加工、分析<br>- データを用いて既存事業のグロース施策提案<br>- 非エンジニア向けにITリテラシーを向上する活動(技術提供、勉強会、ナレッジシェアリング等)|
+|2017年05月 ~ 2017年12月|事業戦略部 BIグループ|データアナリスト|- ビズリーチサービスデータ抽出、加工、分析<br>- データを用いて既存事業のグロース施策提案<br>- 非エンジニア向けにITリテラシーを向上する活動(技術提供、勉強会、ナレッジシェアリング等)|
 |2018年01月|- 事業戦略本部 事業戦略部 BIグループ<br>- ビズリーチ事業本部 サービス開発本部(ビズリーチ) カスタマーマーケティング部(ビズリーチ) カスタマーマーケティングイノベーション(ビズリーチ)|データアナリスト、データエンジニア|- マーケティングチーム兼務<br>- データドリブンマーケティングチームを目指すべく、データ基盤の整備、既存オペレーションの改善提案など、カスタマーマーケティングチームと協働|
-|2018年02月~2018年04月|- 事業戦略本部 事業戦略部 BIグループ<br>- マーケティングテクノロジー室|データエンジニア|- マーケティングテクノロジー室兼務<br>- デジタルマーケティングを目指すべく、データ分析基盤の起案、設計|
-|2018年05月~2018年07月|- マーケティングテクノロジー室<br>- 事業戦略本部 事業戦略部 BIグループ|データエンジニア|- マーケティングテクノロジー室主務移行<br>- データ分析基盤の要件定義、企画、設計、運用|
-|2018年08月~2019年01月|- システム本部 マーケティングテクノロジー室<br>- 事業戦略本部 事業戦略部 BIグループ|データエンジニア、データアナリスト|- データ分析基盤の要件定義、企画、設計、運用保守<br>- Tableau Server管理者<br>- Tableauを利用したデータドリブン組織牽引|
-|2019年02月~2019年04月|- リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室<br>- 事業戦略本部 事業戦略部|データエンジニア、データアナリスト|- 同上<br>- カスタマーサイドのデータ分析利活用支援(ダッシュボード作成、データ整備)|
-|2019年05月~2019年07月|リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室|データエンジニア、データアナリスト|- 同上<br>- Tableau推進(Classroom開校、Boot Camp)<br>- ビジネスサイドのデータ利活用支援(レポーティング最適化、資料自動化など)|
-|2019年08月~2020年01月|HR Techカンパニー リクルーティングプラットフォーム事業ユニット マーケティングテクノロジー室|データエンジニア、データアーキテクト|- 経営指標モニタリングプロジェクト(事業企画と協働)<br>- ビジネスサイドのデータ利活用支援(レポーティング最適化、顧客提供用の定例資料自動化など)<br>- Tableau Server管理<br>- Data Warehouse(Google BigQuery)管理|
-|2020年02月~2020年03月|DX推進室|データアナリスト、データアーキテクト|- CSOの意思決定をデータアナリティクスで支援<br>- DBRE、横断プラットフォーム組織とのデータインフラ整備検討<br>- Tableau Server管理<br>- Data Warehouse(Google BigQuery)管理|
+|2018年02月 ~ 2018年04月|- 事業戦略本部 事業戦略部 BIグループ<br>- マーケティングテクノロジー室|データエンジニア|- マーケティングテクノロジー室兼務<br>- デジタルマーケティングを目指すべく、データ分析基盤の起案、設計|
+|2018年05月 ~ 2018年07月|- マーケティングテクノロジー室<br>- 事業戦略本部 事業戦略部 BIグループ|データエンジニア|- マーケティングテクノロジー室主務移行<br>- データ分析基盤の要件定義、企画、設計、運用|
+|2018年08月 ~ 2019年01月|- システム本部 マーケティングテクノロジー室<br>- 事業戦略本部 事業戦略部 BIグループ|データエンジニア、データアナリスト|- データ分析基盤の要件定義、企画、設計、運用保守<br>- Tableau Server管理者<br>- Tableauを利用したデータドリブン組織牽引|
+|2019年02月 ~ 2019年04月|- リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室<br>- 事業戦略本部 事業戦略部|データエンジニア、データアナリスト|- 同上<br>- カスタマーサイドのデータ分析利活用支援(ダッシュボード作成、データ整備)|
+|2019年05月 ~ 2019年07月|リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室|データエンジニア、データアナリスト|- 同上<br>- Tableau推進(Classroom開校、Boot Camp)<br>- ビジネスサイドのデータ利活用支援(レポーティング最適化、資料自動化など)|
+|2019年08月 ~ 2020年01月|HR Techカンパニー リクルーティングプラットフォーム事業ユニット マーケティングテクノロジー室|データエンジニア、データアーキテクト|- 経営指標モニタリングプロジェクト(事業企画と協働)<br>- ビジネスサイドのデータ利活用支援(レポーティング最適化、顧客提供用の定例資料自動化など)<br>- Tableau Server管理<br>- Data Warehouse(Google BigQuery)管理|
+|2020年02月 ~ 2020年03月|DX推進室|データアナリスト、データアーキテクト|- CSOの意思決定をデータアナリティクスで支援<br>- DBRE、横断プラットフォーム組織とのデータインフラ整備検討<br>- Tableau Server管理<br>- Data Warehouse(Google BigQuery)管理|
 
 #### 株式会社エウレカ
 
-|Term|Organization|Role|Contents|
+|期間|所属組織|職位|内容|
 |---|---|---|---|
-|2020年03月~2020年06月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart設計、構築、運用保守|
-|2020年07月~2020年09月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart整備<br>- Safety Project|
-|2020年10月~2020年12月|BI Team|Data Analyst and Data Engineer|- モニタリング環境構築 by Tableau<br>- Tableau Server管理<br>- Data Warehouse, Data Mart整備<br>- Safety Project<br>- Tableau浸透のためのデータ整備、教育体制計画|
-|2021年01月~2021年12月|BI Team|Data Analyst and Data Engineer|- Business KPI, Brand KPIのモニタリング環境整備<br>- ヘルスチェック用レポートのエンハンス(Tableau化、パフォーマンス改善、運用改善)<br>- Safety Project|
-|2022年01月~2022年03月|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Safety Project|
-|2022年04月~2023年01月|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Pairs Core Dashboard Project|
-|2023年02月~現在|Data Management Team|Data Engineer|- 新データ分析基盤構築<br>- ログ基盤刷新Project|
+|2020年03月 ~ 2020年06月|BI Team|Data Analyst and Data Engineer|- Tableauを用いたモニタリング環境構築<br>- Tableau Server管理<br>- BigQuery設計、構築、運用保守|
+|2020年07月 ~ 2020年09月|BI Team|Data Analyst and Data Engineer|- Tableauを用いたモニタリング環境構築<br>- Tableau Server管理<br>- BigQuery整備<br>- Safety Project|
+|2020年10月 ~ 2020年12月|BI Team|Data Analyst and Data Engineer|- Tableauを用いたモニタリング環境構築<br>- Tableau Server管理<br>- BigQuery整備<br>- Safety Project<br>- Tableauの利用浸透のためのデータ整備、教育体制計画|
+|2021年01月 ~ 2021年12月|BI Team|Data Analyst and Data Engineer|- KPIモニタリング環境整備<br>- ヘルスチェック用レポートのエンハンス(Tableau化、パフォーマンス改善、運用改善)<br>- Safety Project|
+|2022年01月 ~ 2022年03月|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Safety Project|
+|2022年04月 ~ 2023年01月|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Pairs Core Dashboard Project|
+|2023年02月 ~ 現在|Data Management Team|Data Engineer|- 新データ分析基盤運用保守<br>- ログ基盤刷新Project|
 
 ## 資格
 
@@ -110,7 +112,7 @@
 [Tableau Public](https://public.tableau.com/app/profile/kazuya.araki/viz/HUNTERHUNTER6/HUNTERHUNTER6?:embed=y&:display_count=yes)
 
 
-### Portfolio
+### ポートフォリオ
 
 - [Tableau Public](https://public.tableau.com/app/profile/kazuya.araki#!/)
 
@@ -124,7 +126,7 @@
   - Ubuntu
   - Amazon Linux 2
 
-### Language
+### プログラミング言語
 
 - Java
   - Spring Framework
@@ -162,7 +164,7 @@
 - R
 - Terraform
 
-### Middleware
+### ミドルウェア
 
 - Web Server
   - Apache HTTP Server
@@ -189,7 +191,7 @@
 - Data Warehouse
   - SAP BW
 
-### Cloud
+### クラウド
 
 - [AWS](https://aws.amazon.com/jp/)
   - EC2
@@ -240,7 +242,7 @@
 - [SQL Server Management Studio(SSMS)](https://docs.microsoft.com/ja-jp/sql/ssms/download-sql-server-management-studio-ssms)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
-### Tools
+### ツール類
 
 - BI
   - [Tableau](https://www.tableau.com/)
@@ -267,14 +269,15 @@
 ### Mission
 
 ```
-- データの導き手として、価値あることを正しく発信する
-- データの導き手として、常にトップランナーであり続ける
-- データの導き手として、教育、育成への投資を行う
+データの導き手として、私は以下を掲げます。
+- 価値あることを正しく発信する
+- データ界隈にてトップランナーであり続ける
+- 教育、育成への投資を行う
 ```
 
 ## 座右の銘
 
-- 価値あることを正しく行う
+- The right thing in the right way.
 - 現状に満足せず、常に好奇心を持ち続ける
 - Stay Hungry, Stay Foolish.
 - Simple is the best.
@@ -284,7 +287,7 @@
 
 ### 登壇
 
-|Date|Title|
+|日付|タイトル|
 |---|---|
 |2018年09月26日|Data Peopleの為の勉強会\~eureka×Leverages×BizReach\~|
 |2018年10月01日|Tableau Server運用管理者ミートアップ|
@@ -298,7 +301,7 @@
 
 ### メディア、ブログ掲載
 
-|Date|Title|
+|日付|タイトル|
 |---|---|
 |2018年07月18日|[データの力で、事業を加速する｜BIグループの仕事を公開！](https://reachone.bizreach.co.jp/entry/2018/07/18/145421)|
 |2018年11月29日|[「Data Analyst Meetup Tokyo vol.8」に弊社データアナリストが登壇しました！](https://reachone.bizreach.co.jp/entry/2018/11/29/160043)|
@@ -311,7 +314,7 @@
 
 ### 著書
 
-|Date|Title|
+|日付|タイトル|
 |---|---|
 |2022年03月01日|[動き出すデータドリブン組織のつくりかた Tableau Blueprintに学ぶ実践的アプローチ](https://amzn.to/3gOvJC9)|
 
@@ -334,13 +337,14 @@
 
 - データ分析基盤の設計、構築、運用
   - Google BigQuery
+  - Amazon Redshift
   - ARM Treasure Data
 - データ利活用アドバイザー
   - Tableau Doctor(Tableauに関するアドバイス、コーチング)
     - Tableau Desktop
     - Tableau Prep Builder
     - Tableau Server
-    - Tableau Online
+    - Tableau Cloud
   - Google
     - Looker Studio
     - BigQuery
@@ -359,18 +363,18 @@
     - Python
     - Java(+ Spring Framework)
 
-#### データ × 業務効率化
+#### データ × 業務効率化 = BPR(Business Process Reengineering)
 
 エンジニアではない層は、リテラシーの壁もあって、有効にITを活用できていないファクトもあります。  
 データとテクノロジーの力を使い、非効率業務にイノベーションを起こし、業務効率化を図っています。
 
-### 読書とアウトプット
+### 読書
 
 - ジャンル
   - ビジネス
   - Finance
   - 歴史、哲学などリベラルアーツ
-- テーマについて議論したり書評を述べたりするアウトプット(という名の発散)が重要だと考えています。
+- テーマについて議論し、書評を述べるアウトプットや発散が重要だと考えています。
 - 読書会、輪読会歓迎。
 
 ## どんなことがしたいか？
