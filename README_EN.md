@@ -1,6 +1,6 @@
 # Resume
 
-Since *May 6th, 2023*
+Since *July 12th, 2023*
 
 [Japanese Resume is here.](./README.md)
 
@@ -296,7 +296,7 @@ As a data leader, I will
 |Date|Title|
 |---|---|
 |September 26th, 2018|Data Peopleの為の勉強会\~eureka×Leverages×BizReach\~|
-|October 01th, 2018|Tableau Server運用管理者ミートアップ|
+|October 1st, 2018|Tableau Server運用管理者ミートアップ|
 |Nobember 14th, 2018|Data Analyst Meetup Tokyo Vol.8|
 |May 14th, 2019|Tableau Data Day Out Tokyo|
 |August 19th, 2019|[第1回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/743100)|
@@ -322,7 +322,7 @@ As a data leader, I will
 
 |Date|Title|
 |---|---|
-|March 01th, 2022|[動き出すデータドリブン組織のつくりかた Tableau Blueprintに学ぶ実践的アプローチ](https://amzn.to/3gOvJC9)|
+|March 1st, 2022|[動き出すデータドリブン組織のつくりかた Tableau Blueprintに学ぶ実践的アプローチ](https://amzn.to/3gOvJC9)|
 
 
 ## What I'm interested in
@@ -337,16 +337,16 @@ As a data leader, I will
 
 #### Data × Marketing = Digital Marketing
 
-データサイエンスは、マーケティングと親和性の高い分野です。  
-そのため、これまでの知見を基に、マーケティング施策に転じることのできるテーマとして着目しています。  
-直近はデジタルマーケティングにつながる以下の活動をしています。
+Data science is a high affinity field with marketing.  
+Therefore, I am focusing on this topic as a theme that can be turned into marketing actions based on the knowledge I have gained.  
+Most recently, I have been engaged in the following activities related to digital marketing;
 
-- データ分析基盤の設計、構築、運用
+- Design, construction, and operation of data analysis infrastructure
   - Google BigQuery
   - Amazon Redshift
   - ARM Treasure Data
-- データ利活用アドバイザー
-  - Tableau Doctor(Tableauに関するアドバイス、コーチング)
+- Data Utilization Advisor
+  - Tableau Doctor(meanings of Tableau advice and coaching)
     - Tableau Desktop
     - Tableau Prep Builder
     - Tableau Server
@@ -357,51 +357,46 @@ As a data leader, I will
 
 #### Data × Engineering × Education = IT Training for non-Engineer
 
-- 実績
-  - 主催
-    - SQL勉強会
-    - 構成管理(Git)ハンズオン
-    - BigQuery基礎ハンズオン
-    - Tableau 社内Classroom
-    - Standard SQL 社内Classroom
-  - アドバイザーとして
+- Achievements
+  - Hosted by
+    - SQL Study Session
+    - Configuration Management (Git) Hands-on
+    - BigQuery Basic Hands-on
+    - Tableau In-house Classroom
+    - Standard SQL In-house Classroom
+  - As an Advisor
     - Tableau
     - Python
-    - Java(+ Spring Framework)
+    - Java (+ Spring Framework)
 
 #### Data × Business Efficiency = BPR(Business Process Reengineering)
 
-エンジニアではない層は、リテラシーの壁もあって、有効にITを活用できていないファクトもあります。  
-データとテクノロジーの力を使い、非効率業務にイノベーションを起こし、業務効率化を図っています。
+There are facts that non-engineers are not effectively utilizing IT due to literacy barriers.  
+I use the power of data and technology to innovate inefficient operations and improve operational efficiency.
 
 ### Reading
 
-- ジャンル
-  - ビジネス
+- Theme
+  - Business
   - Finance
-  - 歴史、哲学などリベラルアーツ
-- テーマについて議論し、書評を述べるアウトプットや発散が重要だと考えています。
-- 読書会、輪読会歓迎。
+  - History, Philosophy, and other liberal arts
 
 ## What do I want to do?
 
 ### I want to utilize safely and securely with Data with high social contribution
 
-COVID-19のデータ利活用が進んでいます。  
-[新型コロナウイルス 国内感染の状況 - 東洋経済オンライン](https://toyokeizai.net/sp/visual/tko/covid19/)  
-[東京都 新型コロナウイルス感染症対策サイト](https://stopcovid19.metro.tokyo.lg.jp/)  
-COVID-19に限らず、世の中にある様々なデータを安心安全に利活用できないか、常々考えています。  
-- 安心安全なデータプラットフォームが提供できないか？
-- 人間の可処分時間を費やすことなく、持続的かつ継続的に正しいデータを取得できないか？
-- 個人情報保護法、GDPRといった各種法律を踏まえた活動、啓蒙ができないか？
-- 場合によってはビジネスチャンスにつながるようなことができないか？
+I am thinking of;
+- Can I provide a safe and secure data platform?
+- Can I get the right data in a sustainable and continuous way without depriving humans of disposable time?
+- Can I work with and educate people about laws such as the Privacy Act and GDPR?
+- Can I do something that will lead to business opportunities?
 
 ### Develop data-enabled human resources and Increase the market value of data personnel
 
-データリテラシーの高い人材が今後のビジネスのあり方を変えていくと考えています。  
-データアナリスト、データサイエンティスト、データエンジニアなど、データに携わる職種の価値を欧米諸国並に向上させたいです。  
+I believe that data-literate human resources will change the future of business.  
+I want to increase the value of data-enabled jobs such as data analysts, data scientists, and data engineers to the same level as in the United States and Europe.  
 
 ### Data Human Resources Community
 
-知見と人脈を広げるために、データ人材界隈のイベントに参加したりしています。  
-機会があれば登壇しております。
+I participate in events in the data human resources community to expand my knowledge and network.  
+I am also a speaker when I have the opportunity.
