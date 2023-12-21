@@ -1,6 +1,6 @@
 # Resume
 
-Since *July 12th, 2023*
+Since *December 24th, 2023*
 
 [Japanese Resume is here.](./README.md)
 
@@ -44,6 +44,7 @@ Tokyo, Japan
 |September 2013 ~ April 2017|Legend Applications, Inc. formerly known as [LaKeel, Inc](https://www.lakeel.com/ja/index.html)|
 |May 2017 ~ March 2020|[BizReach, Inc.](http://www.bizreach.co.jp/)|
 |March 2020 ~ Currently|[eureka, Inc.](https://eure.jp/)|
+|February 2023 ~ Currently|nobody(Sole Proprietorship)|
 
 ### Detail
 
@@ -89,6 +90,13 @@ Tokyo, Japan
 |January 2022 ~ March 2022|BI Team|Data Analyst and Data Engineer|- Building a new data analysis infrastructure<br>- Safety Project|
 |April 2022 ~ January 2023|BI Team|Data Analyst and Data Engineer|- Building a new data analysis infrastructure<br>- Pairs Core Dashboard Project|
 |February 2023 ~ Currently|Data Management Team|Data Engineer|- Renewal data analysis infrastructure management<br>- Log infrastructure renewal Project|
+
+#### nobody(Sole Proprietorship)
+
+|Term|Contents|
+|---|---|
+|February 2023 ~ Currently|Operation and maintenance of data analysis environment|
+|October 2023 ~ Currently|Data Mart creation, Looker Studio Report creation|
 
 ## Qualifications
 
@@ -251,6 +259,7 @@ Tokyo, Japan
   - [redash](https://redash.io/)
   - [Apache Superset](https://superset.apache.org/)
   - [metabase](https://www.metabase.com/)
+  - [Lightdash](https://www.lightdash.com/)
 - ELT
   - [dbt](https://www.getdbt.com/)
   - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
@@ -283,40 +292,36 @@ As a data leader, I will
 - Simple is the best.
 - Time Is Money.
 
----
-
-## **SORRY. THE FOLLOWING IS STILL IN JAPANESE. WAIT FOR ME TO TRANSLATE IT.**
-
----
-
 ## Achievements
 
 ### Talking as a speaker
 
 |Date|Title|
 |---|---|
-|September 26th, 2018|Data Peopleの為の勉強会\~eureka×Leverages×BizReach\~|
-|October 1st, 2018|Tableau Server運用管理者ミートアップ|
+|September 26th, 2018|Study Session for Data People\~eureka×Leverages×BizReach\~|
+|October 1st, 2018|Tableau Server Administrators Meetup|
 |Nobember 14th, 2018|Data Analyst Meetup Tokyo Vol.8|
 |May 14th, 2019|Tableau Data Day Out Tokyo|
-|August 19th, 2019|[第1回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/743100)|
-|October 21th, 2019|[Tableauデータサイエンス勉強会 第4回 - 画像認識技術とBIの巻-](https://techplay.jp/event/750555)|
-|Nobember 25th, 2019|[第2回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/746910)|
-|January 25th, 2021|[BIツールカジュアル座談会 ~Redash と Metabase~](https://bitoollabo.connpass.com/event/199913/)|
-|April 24th, 2023|[Tableauユーザー会](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
+|August 19th, 2019|[Tableau Server Administrators User Group #1](https://techplay.jp/event/743100)|
+|October 21th, 2019|[Tableau Data Science Study Session #4 - Image Recognition Technology and BI -](https://techplay.jp/event/750555)|
+|Nobember 25th, 2019|[Tableau Server Administrators User Group #2](https://techplay.jp/event/746910)|
+|January 25th, 2021|[BI Tool Casual Roundtable ~Redash and Metabase~](https://bitoollabo.connpass.com/event/199913/)|
+|April 24th, 2023|[Tableau Users Group](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
 
 ### Media and blog postings
 
 |Date|Title|
 |---|---|
-|Jury 18th, 2018|[データの力で、事業を加速する｜BIグループの仕事を公開！](https://reachone.bizreach.co.jp/entry/2018/07/18/145421)|
-|Nobember 29th, 2018|[「Data Analyst Meetup Tokyo vol.8」に弊社データアナリストが登壇しました！](https://reachone.bizreach.co.jp/entry/2018/11/29/160043)|
-|February 13th, 2019|[高校生に向けてAIとBIのデータ活用講座を開催しました！](https://reachone.bizreach.co.jp/entry/2019/02/13/113418)|
-|Jury 29th, 2019|[Tableauが3か月でBI人材を育てるブートキャンプ──企業にデータ分析文化を広めるデータセイバー](https://bizzine.jp/article/detail/3543)|
-|March 30th, 2020|[入社エントリー: 3月にエウレカに入社し、BIチームにJOINいたしました荒木です。](https://www.wantedly.com/companies/eureka/post_articles/225086)|
-|December 14th, 2021|[redashの断捨離を実施したので、方法を共有します](https://medium.com/eureka-engineering/redash%E3%81%AE%E6%96%AD%E6%8D%A8%E9%9B%A2%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7-%E6%96%B9%E6%B3%95%E3%82%92%E5%85%B1%E6%9C%89%E3%81%97%E3%81%BE%E3%81%99-9ffaeaccc910)|
-|Jury 25th, 2022|[第5回 BIツールを用いたデータ可視化業務の要件定義プロセス - BIツールユーザーによる、BIツールユーザーのための、BIツールのトリセツ](https://data.wingarc.com/all-about_bitool_05-43435)|
-|Jury 25th, 2022|[第7回レポート・ダッシュボードの断捨離の重要性 - BIツールユーザーによる、BIツールユーザーのための、BIツールのトリセツ](https://data.wingarc.com/all-about_bitool_07-43472)|
+|Jury 18th, 2018|[[Deleted]Introducing the work of the BI Group](https://reachone.bizreach.co.jp/entry/2018/07/18/145421)|
+|Nobember 29th, 2018|[[Deleted]Our data analyst spoke at "Data Analyst Meetup Tokyo vol.8"](https://reachone.bizreach.co.jp/entry/2018/11/29/160043)|
+|February 13th, 2019|[[Deleted]AI and BI data application course for high school students](https://reachone.bizreach.co.jp/entry/2019/02/13/113418)|
+|Jury 29th, 2019|[Tableau's 3-month boot camp for BI talent - DATA Saber to spread data analysis culture in the company](https://bizzine.jp/article/detail/3543)|
+|March 30th, 2020|[eureka entry: Join to the BI Team](https://www.wantedly.com/companies/eureka/post_articles/225086)|
+|December 14th, 2021|[redash Decluttering](https://medium.com/eureka-engineering/redash%E3%81%AE%E6%96%AD%E6%8D%A8%E9%9B%A2%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7-%E6%96%B9%E6%B3%95%E3%82%92%E5%85%B1%E6%9C%89%E3%81%97%E3%81%BE%E3%81%99-9ffaeaccc910)|
+|Jury 25th, 2022|[#5: Requirements Definition Process for Data Visualization Operations Using BI Tools - BI Tool Tricks, by BI Tool Users, for BI Tool Users](https://data.wingarc.com/all-about_bitool_05-43435)|
+|Jury 25th, 2022|[#7: The Importance of Discarding Reports and Dashboards - BI Tool Tricks, by BI Tool Users, for BI Tool Users](https://data.wingarc.com/all-about_bitool_07-43472)|
+|October 25th, 2023|[Best of Tableau Web #October, 2023](https://www.salesforce.com/jp/blog/jp-best-of-tableau-web-202310/)|
+|December 8th, 2023|[BigQuery White Magician](https://medium.com/eureka-engineering/bigquery-white-magician-a718e5dc8818)|
 
 ### Books
 
@@ -380,12 +385,15 @@ I use the power of data and technology to innovate inefficient operations and im
   - Business
   - Finance
   - History, Philosophy, and other liberal arts
+- Discuss the topic and provide a book review
+- Reading Groups
 
 ## What do I want to do?
 
 ### I want to utilize safely and securely with Data with high social contribution
 
 I am thinking of;
+
 - Can I provide a safe and secure data platform?
 - Can I get the right data in a sustainable and continuous way without depriving humans of disposable time?
 - Can I work with and educate people about laws such as the Privacy Act and GDPR?
