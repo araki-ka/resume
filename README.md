@@ -1,6 +1,6 @@
 # 職務経歴書
 
-*2023年07月12日*現在
+*2023年12月24日*現在
 
 [英語版職務経歴書はこちら](./README_EN.md)
 
@@ -44,6 +44,7 @@
 |2013年09月 ~ 2017年04月|株式会社レジェンド・アプリケーションズ(現、[株式会社ラキール](https://www.lakeel.com/ja/index.html))|
 |2017年05月 ~ 2020年03月|[株式会社ビズリーチ](http://www.bizreach.co.jp/)|
 |2020年03月 ~ 現在|[株式会社エウレカ](https://eure.jp/)|
+|2023年02月 ~ 現在|nobody(個人事業主)|
 
 ### 詳細
 
@@ -89,6 +90,13 @@
 |2022年01月 ~ 2022年03月|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Safety Project|
 |2022年04月 ~ 2023年01月|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Pairs Core Dashboard Project|
 |2023年02月 ~ 現在|Data Management Team|Data Engineer|- 新データ分析基盤運用保守<br>- ログ基盤刷新Project|
+
+#### nobody(個人事業主)
+
+|期間|内容|
+|---|---|
+|2023年02月 ~ 現在|データ分析環境運用保守|
+|2023年10月 ~ 現在|Data Mart作成, Looker Studio Report作成|
 
 ## 資格
 
@@ -247,10 +255,11 @@
 - BI
   - [Tableau](https://www.tableau.com/)
   - [Power BI](https://powerbi.microsoft.com/en-us/)
-  - [Looker Studio](https://cloud.google.com/looker-studio)
+  - [Looker Studio / Looker Studio Pro](https://cloud.google.com/looker-studio)
   - [redash](https://redash.io/)
   - [Apache Superset](https://superset.apache.org/)
   - [metabase](https://www.metabase.com/)
+  - [Lightdash](https://www.lightdash.com/)
 - ELT
   - [dbt](https://www.getdbt.com/)
   - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
@@ -294,7 +303,7 @@
 |2018年11月14日|Data Analyst Meetup Tokyo Vol.8|
 |2019年05月14日|Tableau Data Day Out Tokyo|
 |2019年08月19日|[第1回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/743100)|
-|2019年10月21日|[Tableauデータサイエンス勉強会 第4回 - 画像認識技術とBIの巻-](https://techplay.jp/event/750555)|
+|2019年10月21日|[Tableauデータサイエンス勉強会 第4回 - 画像認識技術とBIの巻 -](https://techplay.jp/event/750555)|
 |2019年11月25日|[第2回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/746910)|
 |2021年01月25日|[BIツールカジュアル座談会 ~Redash と Metabase~](https://bitoollabo.connpass.com/event/199913/)|
 |2023年04月24日|[Tableauユーザー会](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
@@ -303,14 +312,16 @@
 
 |日付|タイトル|
 |---|---|
-|2018年07月18日|[データの力で、事業を加速する｜BIグループの仕事を公開！](https://reachone.bizreach.co.jp/entry/2018/07/18/145421)|
-|2018年11月29日|[「Data Analyst Meetup Tokyo vol.8」に弊社データアナリストが登壇しました！](https://reachone.bizreach.co.jp/entry/2018/11/29/160043)|
-|2019年02月13日|[高校生に向けてAIとBIのデータ活用講座を開催しました！](https://reachone.bizreach.co.jp/entry/2019/02/13/113418)|
+|2018年07月18日|[[記事削除済]データの力で、事業を加速する｜BIグループの仕事を公開！](https://reachone.bizreach.co.jp/entry/2018/07/18/145421)|
+|2018年11月29日|[[記事削除済]「Data Analyst Meetup Tokyo vol.8」に弊社データアナリストが登壇しました！](https://reachone.bizreach.co.jp/entry/2018/11/29/160043)|
+|2019年02月13日|[[記事削除済]高校生に向けてAIとBIのデータ活用講座を開催しました！](https://reachone.bizreach.co.jp/entry/2019/02/13/113418)|
 |2019年07月29日|[Tableauが3か月でBI人材を育てるブートキャンプ──企業にデータ分析文化を広めるデータセイバー](https://bizzine.jp/article/detail/3543)|
 |2020年03月30日|[入社エントリー: 3月にエウレカに入社し、BIチームにJOINいたしました荒木です。](https://www.wantedly.com/companies/eureka/post_articles/225086)|
 |2021年12月14日|[redashの断捨離を実施したので、方法を共有します](https://medium.com/eureka-engineering/redash%E3%81%AE%E6%96%AD%E6%8D%A8%E9%9B%A2%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7-%E6%96%B9%E6%B3%95%E3%82%92%E5%85%B1%E6%9C%89%E3%81%97%E3%81%BE%E3%81%99-9ffaeaccc910)|
 |2022年07月25日|[第5回 BIツールを用いたデータ可視化業務の要件定義プロセス - BIツールユーザーによる、BIツールユーザーのための、BIツールのトリセツ](https://data.wingarc.com/all-about_bitool_05-43435)|
-|2022年07月25日|[第7回レポート・ダッシュボードの断捨離の重要性 - BIツールユーザーによる、BIツールユーザーのための、BIツールのトリセツ](https://data.wingarc.com/all-about_bitool_07-43472)|
+|2022年07月25日|[第7回 レポート・ダッシュボードの断捨離の重要性 - BIツールユーザーによる、BIツールユーザーのための、BIツールのトリセツ](https://data.wingarc.com/all-about_bitool_07-43472)|
+|2023年10月25日|[Best of Tableau Web 2023年10月号](https://www.salesforce.com/jp/blog/jp-best-of-tableau-web-202310/)|
+|2023年12月08日|[BigQueryの白魔術師がdbtという最強クラスの触媒を用いていい感じに世界を救う方法](https://medium.com/eureka-engineering/bigquery-white-magician-a718e5dc8818)|
 
 ### 著書
 
@@ -354,14 +365,14 @@
 - 実績
   - 主催
     - SQL勉強会
-    - 構成管理(Git)ハンズオン
+    - 構成管理 (Git) ハンズオン
     - BigQuery基礎ハンズオン
     - Tableau 社内Classroom
     - Standard SQL 社内Classroom
   - アドバイザーとして
     - Tableau
     - Python
-    - Java(+ Spring Framework)
+    - Java (+ Spring Framework)
 
 #### データ × 業務効率化 = BPR(Business Process Reengineering)
 
@@ -380,6 +391,8 @@
 ## どんなことがしたいか？
 
 ### 社会貢献度の高いデータを安心安全に利活用したい
+
+日常座臥、以下を考えています;
 
 - 安心安全なデータプラットフォームが提供できないか？
 - 人間の可処分時間を費やすことなく、持続的かつ継続的に正しいデータを取得できないか？
