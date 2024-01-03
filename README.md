@@ -1,6 +1,6 @@
 # 職務経歴書
 
-*2023年12月24日*現在
+*2024年01月201日*現在
 
 [英語版職務経歴書はこちら](./README_EN.md)
 
@@ -298,14 +298,14 @@
 
 |日付|タイトル|
 |---|---|
-|2018年09月26日|Data Peopleの為の勉強会\~eureka×Leverages×BizReach\~|
+|2018年09月26日|Data Peopleの為の勉強会 \~eureka×Leverages×BizReach\~|
 |2018年10月01日|Tableau Server運用管理者ミートアップ|
 |2018年11月14日|Data Analyst Meetup Tokyo Vol.8|
 |2019年05月14日|Tableau Data Day Out Tokyo|
 |2019年08月19日|[第1回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/743100)|
 |2019年10月21日|[Tableauデータサイエンス勉強会 第4回 - 画像認識技術とBIの巻 -](https://techplay.jp/event/750555)|
 |2019年11月25日|[第2回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/746910)|
-|2021年01月25日|[BIツールカジュアル座談会 ~Redash と Metabase~](https://bitoollabo.connpass.com/event/199913/)|
+|2021年01月25日|[BIツールカジュアル座談会 \~Redash と Metabase\~](https://bitoollabo.connpass.com/event/199913/)|
 |2023年04月24日|[Tableauユーザー会](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
 
 ### メディア、ブログ掲載
