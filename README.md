@@ -1,6 +1,6 @@
 # 職務経歴書
 
-*2024年01月201日*現在
+*2024年01月01日*現在
 
 [英語版職務経歴書はこちら](./README_EN.md)
 
@@ -126,8 +126,13 @@
 
 ### OS
 
-- Windows
-- macOS
+- Microsoft Windows
+  - Windows 95 and later
+  - Windows Server 2003 and later
+- Mac OS
+  - Mac OS 9
+  - Mac OS X
+  - macOS Sierra and later
 - Linux
   - CentOS
   - RedHat Enterprise Linux(RHEL)
@@ -383,7 +388,7 @@
 
 - テーマ
   - ビジネス
-  - Finance
+  - 会計
   - 歴史、哲学などリベラルアーツ
 - テーマについて議論し、書評を述べるアウトプットや発散が重要だと考えています。
 - 読書会、輪読会歓迎。
