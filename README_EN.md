@@ -126,8 +126,13 @@ Tokyo, Japan
 
 ### OS
 
-- Windows
-- macOS
+- Microsoft Windows
+  - Windows 95 and later
+  - Windows Server 2003 and later
+- Mac OS
+  - Mac OS 9
+  - Mac OS X
+  - macOS Sierra and later
 - Linux
   - CentOS
   - RedHat Enterprise Linux(RHEL)
@@ -250,7 +255,7 @@ Tokyo, Japan
 - [SQL Server Management Studio(SSMS)](https://docs.microsoft.com/ja-jp/sql/ssms/download-sql-server-management-studio-ssms)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
-### Tools
+### Other Tools
 
 - BI
   - [Tableau](https://www.tableau.com/)
@@ -332,7 +337,7 @@ As a data leader, I will
 
 ## What I'm interested in
 
-### Data ○○
+### Data × ○○
 
 #### Data × Design = Visual Analytics
 
