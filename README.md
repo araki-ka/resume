@@ -24,15 +24,17 @@
 
 ### SNS etc.
 
-- [Twitter - kazuya_araki_jp](https://twitter.com/kazuya_araki_jp)
-- [GitHub - araki-ka](https://github.com/araki-ka)
-- [Qiita - Kazuya_Araki_Tokyo](https://qiita.com/Kazuya_Araki_Tokyo)
-- [note - Kazuya Araki](https://note.com/jedi_trickstar)
-- [Medium - kazuya.araki](https://medium.com/@kazuya.araki)
-- [facebook - Kazuya Araki](https://www.facebook.com/kazuya.araki.tokyo)
-- [Linkedin - kazuya-araki](https://www.linkedin.com/in/kazuya-araki-65680111a/)
-- [SlideShare - Kazuya Araki](https://www.slideshare.net/KazuyaARAKI)
-- [Speaker Deck](https://speakerdeck.com/kazuya_araki_tokyo)
+[![kazuya_araki_jp](https://img.shields.io/badge/X(twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kazuya_araki_jp)
+[![araki-ka](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/araki-ka)
+[![Kazuya_Araki_Tokyo](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/Kazuya_Araki_Tokyo)
+[![jedi_trickstar](https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=note&logoColor=white)](https://note.com/jedi_trickstar)
+[![@kazuya.araki](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@kazuya.araki)
+[![kazuya.araki.tokyo](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kazuya.araki.tokyo)
+[![kazuya-araki-65680111a](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazuya-araki-65680111a/)
+[![kazuya_araki_d](https://img.shields.io/badge/Wantedly-21BDDB?style=for-the-badge&logo=wantedly&logoColor=white)](https://www.wantedly.com/id/kazuya_araki_d)
+[![kazuya_araki_tokyo](https://img.shields.io/badge/Speaker%20Deck-009287.svg?style=for-the-badge&logo=Speaker-Deck&logoColor=white)](https://speakerdeck.com/kazuya_araki_tokyo)
+[![@zakiyamakaoru](https://img.shields.io/badge/steemit-04D6A7?style=for-the-badge&logo=steemit&logoColor=white)](https://steemit.com/@zakiyamakaoru)
+[![kazuya.araki](https://img.shields.io/badge/Tableau%20Public-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kazuya.araki/vizzes)
 
 ## 職務経歴
 
@@ -348,13 +350,19 @@
 #### データ × マーケティング = デジタルマーケティング
 
 データサイエンスは、マーケティングと親和性の高い分野です。  
-そのため、これまでの知見を基に、マーケティング施策に転じることのできるテーマとして着目しています。  
+そのため、マーケティング施策に転じることのできるテーマとして着目しています。  
 直近はデジタルマーケティングにつながる以下の活動をしています。
 
-- データ分析基盤の設計、構築、運用
-  - Google BigQuery
-  - Amazon Redshift
-  - ARM Treasure Data
+- データ分析基盤、CRM環境の設計、構築、運用
+  - Data Warehouse
+    - Google BigQuery
+    - Amazon Redshift
+    - ARM Treasure Data
+  - Web Analytics Service
+    - Google Analytics
+    - Firebase Analytics
+    - Adjust
+    - Mixpanel
 - データ利活用アドバイザー
   - Tableau Doctor(Tableauに関するアドバイス、コーチング)
     - Tableau Desktop
@@ -366,6 +374,9 @@
     - BigQuery
 
 #### データ × エンジニアリング × 教育 = 非エンジニアに対してのテクノロジー教育
+
+IT関連のスキルアップには教育は欠かせません。  
+私はテクノロジー教育に惜しみなく投資する社会を望んでいます。
 
 - 実績
   - 主催
@@ -381,8 +392,8 @@
 
 #### データ × 業務効率化 = BPR(Business Process Reengineering)
 
-エンジニアではない層は、リテラシーの壁もあって、有効にITを活用できていないファクトもあります。  
-データとテクノロジーの力を使い、非効率業務にイノベーションを起こし、業務効率化を図っています。
+非エンジニア層は、ITリテラシーの壁があるため、有効にITを活用できていません。  
+データとテクノロジーの力を駆使して、非効率業務を改善する手助けを行い、非エンジニア層の業務効率化を図っています。
 
 ### 読書
 
@@ -406,10 +417,10 @@
 
 ### データ活用人材の育成、データ人材の市場価値向上
 
-データリテラシーの高い人材が今後のビジネスのあり方を変えていくと考えています。  
-データアナリスト、データサイエンティスト、データエンジニアなど、データに携わる職種の価値を欧米諸国並に向上させたいです。  
+データリテラシーの高い人材が今後のビジネスを劇的に変革する力があると私は考えています。  
+データサイエンティスト、データエンジニア、データスチュワートなど、データに携わる職種の価値を欧米諸国並に向上させたいです。  
 
 ### データ人材界隈イベント
 
-知見と人脈を広げるために、データ人材界隈のイベントに参加したりしています。  
+知見と人脈を広げるために、データ人材界隈のイベントに参加しています。  
 機会があれば登壇しております。

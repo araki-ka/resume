@@ -24,15 +24,17 @@ Tokyo, Japan
 
 ### SNS etc.
 
-- [Twitter - kazuya_araki_jp](https://twitter.com/kazuya_araki_jp)
-- [GitHub - araki-ka](https://github.com/araki-ka)
-- [Qiita - Kazuya_Araki_Tokyo](https://qiita.com/Kazuya_Araki_Tokyo)
-- [note - Kazuya Araki](https://note.com/jedi_trickstar)
-- [Medium - kazuya.araki](https://medium.com/@kazuya.araki)
-- [facebook - Kazuya Araki](https://www.facebook.com/kazuya.araki.tokyo)
-- [Linkedin - kazuya-araki](https://www.linkedin.com/in/kazuya-araki-65680111a/)
-- [SlideShare - Kazuya Araki](https://www.slideshare.net/KazuyaARAKI)
-- [Speaker Deck](https://speakerdeck.com/kazuya_araki_tokyo)
+[![kazuya_araki_jp](https://img.shields.io/badge/X(twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kazuya_araki_jp)
+[![araki-ka](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/araki-ka)
+[![Kazuya_Araki_Tokyo](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/Kazuya_Araki_Tokyo)
+[![jedi_trickstar](https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=note&logoColor=white)](https://note.com/jedi_trickstar)
+[![@kazuya.araki](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@kazuya.araki)
+[![kazuya.araki.tokyo](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kazuya.araki.tokyo)
+[![kazuya-araki-65680111a](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazuya-araki-65680111a/)
+[![kazuya_araki_d](https://img.shields.io/badge/Wantedly-21BDDB?style=for-the-badge&logo=wantedly&logoColor=white)](https://www.wantedly.com/id/kazuya_araki_d)
+[![kazuya_araki_tokyo](https://img.shields.io/badge/Speaker%20Deck-009287.svg?style=for-the-badge&logo=Speaker-Deck&logoColor=white)](https://speakerdeck.com/kazuya_araki_tokyo)
+[![@zakiyamakaoru](https://img.shields.io/badge/steemit-04D6A7?style=for-the-badge&logo=steemit&logoColor=white)](https://steemit.com/@zakiyamakaoru)
+[![kazuya.araki](https://img.shields.io/badge/Tableau%20Public-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kazuya.araki/vizzes)
 
 ## Job History
 
@@ -260,7 +262,7 @@ Tokyo, Japan
 - BI
   - [Tableau](https://www.tableau.com/)
   - [Power BI](https://powerbi.microsoft.com/en-us/)
-  - [Looker Studio](https://cloud.google.com/looker-studio)
+  - [Looker Studio / Looker Studio Pro](https://cloud.google.com/looker-studio)
   - [redash](https://redash.io/)
   - [Apache Superset](https://superset.apache.org/)
   - [metabase](https://www.metabase.com/)
@@ -351,10 +353,16 @@ Data science is a high affinity field with marketing.
 Therefore, I am focusing on this topic as a theme that can be turned into marketing actions based on the knowledge I have gained.  
 Most recently, I have been engaged in the following activities related to digital marketing;
 
-- Design, construction, and operation of data analysis infrastructure
-  - Google BigQuery
-  - Amazon Redshift
-  - ARM Treasure Data
+- Design, construction, and operation of data analysis infrastructure and CRM
+  - Data Warehouse
+    - Google BigQuery
+    - Amazon Redshift
+    - ARM Treasure Data
+  - Web Analytics Service
+    - Google Analytics
+    - Firebase Analytics
+    - Adjust
+    - Mixpanel
 - Data Utilization Advisor
   - Tableau Doctor(meanings of Tableau advice and coaching)
     - Tableau Desktop
@@ -366,6 +374,9 @@ Most recently, I have been engaged in the following activities related to digita
     - BigQuery
 
 #### Data × Engineering × Education = IT Training for non-Engineer
+
+Education is essential for Information Technology skill development.  
+I would like to see a society that invests costs in technology education.
 
 - Achievements
   - Hosted by
@@ -407,7 +418,7 @@ I am thinking of;
 ### Develop data-enabled human resources and Increase the market value of data personnel
 
 I believe that data-literate human resources will change the future of business.  
-I want to increase the value of data-enabled jobs such as data analysts, data scientists, and data engineers to the same level as in the United States and Europe.  
+I want to increase the value of data-enabled jobs such as data scientists, data engineers, and data stewart to the same level as in the United States and Europe.  
 
 ### Data Human Resources Community
 
