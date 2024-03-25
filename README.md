@@ -1,6 +1,6 @@
 # 職務経歴書
 
-*2024年01月01日*現在
+*2024年03月31日*現在
 
 [英語版職務経歴書はこちら](./README_EN.md)
 
@@ -46,7 +46,7 @@
 |2013年09月 ~ 2017年04月|株式会社レジェンド・アプリケーションズ(現、[株式会社ラキール](https://www.lakeel.com/ja/index.html))|
 |2017年05月 ~ 2020年03月|[株式会社ビズリーチ](http://www.bizreach.co.jp/)|
 |2020年03月 ~ 現在|[株式会社エウレカ](https://eure.jp/)|
-|2023年02月 ~ 現在|nobody(個人事業主)|
+|2023年02月 ~ 現在|nobody(個人事業)|
 
 ### 詳細
 
@@ -91,14 +91,15 @@
 |2021年01月 ~ 2021年12月|BI Team|Data Analyst and Data Engineer|- KPIモニタリング環境整備<br>- ヘルスチェック用レポートのエンハンス(Tableau化、パフォーマンス改善、運用改善)<br>- Safety Project|
 |2022年01月 ~ 2022年03月|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Safety Project|
 |2022年04月 ~ 2023年01月|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Pairs Core Dashboard Project|
-|2023年02月 ~ 現在|Data Management Team|Data Engineer|- 新データ分析基盤運用保守<br>- ログ基盤刷新Project|
+|2023年02月 ~ 2023年12月|Data Management Team|Data Engineer|- データ分析基盤運用保守<br>- ログ基盤刷新Project<br>- Looker Studio運用設計|
+|2024年01月 ~ 現在|BI Team Data Enabling|Data Engineer and Analytics Engineer|- データ分析基盤運用効率改善<br>- Apps Scriptをdbtに移行<br>- dbt運用改善<br>- BIツール運用再設計|
 
-#### nobody(個人事業主)
+#### nobody(個人事業)
 
 |期間|内容|
 |---|---|
-|2023年02月 ~ 現在|データ分析環境運用保守|
-|2023年10月 ~ 現在|Data Mart作成, Looker Studio Report作成|
+|2023年02月 ~ 2023年12月|データ分析環境運用保守案件|
+|2023年10月 ~ 現在|Data Mart作成, Looker Studio Report作成案件|
 
 ## 資格
 
@@ -120,7 +121,6 @@
 - 特質系(社会実装) : 1
 ![HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](./image/nen.png)
 [Tableau Public](https://public.tableau.com/app/profile/kazuya.araki/viz/HUNTERHUNTER6/HUNTERHUNTER6?:embed=y&:display_count=yes)
-
 
 ### ポートフォリオ
 
@@ -274,22 +274,41 @@
     - [Apache Airflow](https://airflow.apache.org/)
     - [Dagster](https://dagster.io/)
 
-## Vision / Mission
+## Mission / Vision / Value
 
-### Vision
+### Mission
 
 ```
 データの力で世界を変革するトリックスターとして、人々を導く存在となる
 ```
 
-### Mission
+### Vision
 
 ```
-データの導き手として、私は以下を掲げます。
-- 価値あることを正しく発信する
-- データ界隈にてトップランナーであり続ける
-- 教育、育成への投資を行う
+データの導き手として、価値あることを正しく行う
 ```
+
+### Value
+
+```
+QCDSを当たり前に体現する
+```
+
+#### Quality: High Outcome
+
+当たり前に高品質、高成果物を目指す。
+
+#### Cost: Think Better
+
+当たり前に生産的思考を行う。
+
+#### Delivery: Quick Win
+
+当たり前に小さく早く行う。
+
+#### Service: Keep Growth
+
+当たり前に改善し、成長する。
 
 ## 座右の銘
 
