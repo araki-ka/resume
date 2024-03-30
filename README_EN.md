@@ -1,6 +1,6 @@
 # Resume
 
-Since *January 1st, 2024*
+Since *March 31st, 2024*
 
 [Japanese Resume is here.](./README.md)
 
@@ -91,13 +91,14 @@ Tokyo, Japan
 |January 2021 ~ December 2021|BI Team|Data Analyst and Data Engineer|- KPI monitoring environment development<br>- Enhancement of health check reports(migration to Tableau, performance improvement, operational improvement)<br>- Safety Project|
 |January 2022 ~ March 2022|BI Team|Data Analyst and Data Engineer|- Building a new data analysis infrastructure<br>- Safety Project|
 |April 2022 ~ January 2023|BI Team|Data Analyst and Data Engineer|- Building a new data analysis infrastructure<br>- Pairs Core Dashboard Project|
-|February 2023 ~ Currently|Data Management Team|Data Engineer|- Renewal data analysis infrastructure management<br>- Log infrastructure renewal Project|
+|February 2023 ~ December 2023|Data Management Team|Data Engineer|- Data analysis infrastructure management<br>- Log infrastructure renewal Project|
+|January 2024 ~ Currently|BI Team Data Enabling|Data Engineer and Analytics Engineer|- Improved operational efficiency of data analysis infrastructure<br>- Migration from Apps Script to dbt<br>- dbt operational improvements<br>- BI tool operation redesign|
 
 #### nobody(Sole Proprietorship)
 
 |Term|Contents|
 |---|---|
-|February 2023 ~ Currently|Operation and maintenance of data analysis environment|
+|February 2023 ~ December 2023|Operation and maintenance of data analysis environment|
 |October 2023 ~ Currently|Data Mart creation, Looker Studio Report creation|
 
 ## Qualifications
@@ -120,7 +121,6 @@ Tokyo, Japan
 - Specialist(Social Implementation) : 1
 ![HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル](./image/nen.png)
 [Tableau Public](https://public.tableau.com/app/profile/kazuya.araki/viz/HUNTERHUNTER6/HUNTERHUNTER6?:embed=y&:display_count=yes)
-
 
 ### Portfolio
 
@@ -274,22 +274,41 @@ Tokyo, Japan
     - [Apache Airflow](https://airflow.apache.org/)
     - [Dagster](https://dagster.io/)
 
-## Vision / Mission
+## Mission / Vision / Value
 
-### Vision
+### Mission
 
 ```
 Be the trickster who transforms the world with the power of data to guide people.
 ```
 
-### Mission
+### Vision
 
 ```
-As a data leader, I will
-- Communicate what is valuable and correct.
-- Remain a leader in the data community.
-- Invest in Data Education and Training.
+As a data leader, I will be doing what is valuable and correct.
 ```
+
+### Value
+
+```
+Embodying QCDS.
+```
+
+#### Quality: High Outcome
+
+As a matter of course, aiming for high quality and high quality.
+
+#### Cost: Think Better
+
+As a matter of course, doing productive thinking.
+
+#### Delivery: Quick Win
+
+As a matter of course, doing it small and quick.
+
+#### Service: Keep Growth
+
+As a matter of course, doing improvement and growth.
 
 ## Motto
 
