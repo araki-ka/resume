@@ -1,6 +1,6 @@
 # Resume
 
-Since *March 31st, 2024*
+Since *July 31st, 2024*
 
 [Japanese Resume is here.](./README.md)
 
@@ -33,7 +33,6 @@ Tokyo, Japan
 [![kazuya-araki-65680111a](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazuya-araki-65680111a/)
 [![kazuya_araki_d](https://img.shields.io/badge/Wantedly-21BDDB?style=for-the-badge&logo=wantedly&logoColor=white)](https://www.wantedly.com/id/kazuya_araki_d)
 [![kazuya_araki_tokyo](https://img.shields.io/badge/Speaker%20Deck-009287.svg?style=for-the-badge&logo=Speaker-Deck&logoColor=white)](https://speakerdeck.com/kazuya_araki_tokyo)
-[![@zakiyamakaoru](https://img.shields.io/badge/steemit-04D6A7?style=for-the-badge&logo=steemit&logoColor=white)](https://steemit.com/@zakiyamakaoru)
 [![kazuya.araki](https://img.shields.io/badge/Tableau%20Public-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kazuya.araki/vizzes)
 
 ## Job History
@@ -100,6 +99,7 @@ Tokyo, Japan
 |---|---|
 |February 2023 ~ December 2023|Operation and maintenance of data analysis environment|
 |October 2023 ~ Currently|Data Mart creation, Looker Studio Report creation|
+|May 2024 ~ Currently|Python System Development|
 
 ## Qualifications
 
@@ -245,7 +245,7 @@ Tokyo, Japan
 - [さくらのクラウド](https://cloud.sakura.ad.jp/)
 - [TREASURE DATA](https://www.treasuredata.co.jp/)
 
-### IDE
+### IDEs
 
 - [Eclipse](https://www.eclipse.org/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
@@ -333,6 +333,7 @@ As a matter of course, doing improvement and growth.
 |Nobember 25th, 2019|[Tableau Server Administrators User Group #2](https://techplay.jp/event/746910)|
 |January 25th, 2021|[BI Tool Casual Roundtable \~Redash and Metabase\~](https://bitoollabo.connpass.com/event/199913/)|
 |April 24th, 2023|[Tableau Users Group](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
+|April 15th, 2024|[Tableau User Only】IT Service Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
 
 ### Media and blog postings
 
