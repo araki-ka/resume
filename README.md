@@ -1,6 +1,6 @@
 # 職務経歴書
 
-*2024年03月31日*現在
+*2024年07月31日*現在
 
 [英語版職務経歴書はこちら](./README_EN.md)
 
@@ -33,7 +33,6 @@
 [![kazuya-araki-65680111a](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazuya-araki-65680111a/)
 [![kazuya_araki_d](https://img.shields.io/badge/Wantedly-21BDDB?style=for-the-badge&logo=wantedly&logoColor=white)](https://www.wantedly.com/id/kazuya_araki_d)
 [![kazuya_araki_tokyo](https://img.shields.io/badge/Speaker%20Deck-009287.svg?style=for-the-badge&logo=Speaker-Deck&logoColor=white)](https://speakerdeck.com/kazuya_araki_tokyo)
-[![@zakiyamakaoru](https://img.shields.io/badge/steemit-04D6A7?style=for-the-badge&logo=steemit&logoColor=white)](https://steemit.com/@zakiyamakaoru)
 [![kazuya.araki](https://img.shields.io/badge/Tableau%20Public-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kazuya.araki/vizzes)
 
 ## 職務経歴
@@ -100,6 +99,7 @@
 |---|---|
 |2023年02月 ~ 2023年12月|データ分析環境運用保守案件|
 |2023年10月 ~ 現在|Data Mart作成, Looker Studio Report作成案件|
+|2024年05月 ~ 現在|Pythonシステム構築案件|
 
 ## 資格
 
@@ -245,7 +245,7 @@
 - [さくらのクラウド](https://cloud.sakura.ad.jp/)
 - [TREASURE DATA](https://www.treasuredata.co.jp/)
 
-### IDE
+### IDEs
 
 - [Eclipse](https://www.eclipse.org/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
@@ -333,6 +333,7 @@ QCDSを当たり前に体現する
 |2019年11月25日|[第2回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/746910)|
 |2021年01月25日|[BIツールカジュアル座談会 \~Redash と Metabase\~](https://bitoollabo.connpass.com/event/199913/)|
 |2023年04月24日|[Tableauユーザー会](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
+|2024年04月15日|[Tableau ユーザー向け】ITサービス Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
 
 ### メディア、ブログ掲載
 
