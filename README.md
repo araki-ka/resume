@@ -1,6 +1,6 @@
 # 職務経歴書
 
-*2024年07月31日*現在
+*2024年010月21日*現在
 
 [英語版職務経歴書はこちら](./README_EN.md)
 
@@ -44,8 +44,9 @@
 |2007年05月 ~ 2013年08月|[アロウズ・システム株式会社](http://www.arouse.co.jp/)|
 |2013年09月 ~ 2017年04月|株式会社レジェンド・アプリケーションズ(現、[株式会社ラキール](https://www.lakeel.com/ja/index.html))|
 |2017年05月 ~ 2020年03月|[株式会社ビズリーチ](http://www.bizreach.co.jp/)|
-|2020年03月 ~ 現在|[株式会社エウレカ](https://eure.jp/)|
+|2020年03月 ~ 2024年09月|[株式会社エウレカ](https://eure.jp/)|
 |2023年02月 ~ 現在|nobody(個人事業)|
+|2024年10月 ~ 現在|[株式会社ビズリーチ](http://www.bizreach.co.jp/)|
 
 ### 詳細
 
@@ -91,7 +92,13 @@
 |2022年01月 ~ 2022年03月|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Safety Project|
 |2022年04月 ~ 2023年01月|BI Team|Data Analyst and Data Engineer|- 新データ分析基盤構築<br>- Pairs Core Dashboard Project|
 |2023年02月 ~ 2023年12月|Data Management Team|Data Engineer|- データ分析基盤運用保守<br>- ログ基盤刷新Project<br>- Looker Studio運用設計|
-|2024年01月 ~ 現在|BI Team Data Enabling|Data Engineer and Analytics Engineer|- データ分析基盤運用効率改善<br>- Apps Scriptをdbtに移行<br>- dbt運用改善<br>- BIツール運用再設計|
+|2024年01月 ~ 2024年09月|BI Team Data Enabling|Data Engineer and Analytics Engineer|- データ分析基盤運用効率改善<br>- Apps Scriptをdbtに移行<br>- dbt運用改善<br>- BIツール運用再設計|
+
+#### 株式会社ビズリーチ
+
+|期間|所属組織|職位|内容|
+|---|---|---|---|
+|2024年10月 ~ 現在|CTO室 データソリューショングループ|Data Engineer and Data Analyst|- ビズリーチ、HRMOS全体のデータ基盤管理<br>- ビズリーチ、HRMOS全体のデータ分析|
 
 #### nobody(個人事業)
 
@@ -334,6 +341,7 @@ QCDSを当たり前に体現する
 |2021年01月25日|[BIツールカジュアル座談会 \~Redash と Metabase\~](https://bitoollabo.connpass.com/event/199913/)|
 |2023年04月24日|[Tableauユーザー会](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
 |2024年04月15日|[Tableau ユーザー向け】ITサービス Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
+|2024年11月23日|DATA Saber Conference 2024|
 
 ### メディア、ブログ掲載
 
