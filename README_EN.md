@@ -1,6 +1,6 @@
 # Resume
 
-Since *July 31st, 2024*
+Since *October 21st, 2024*
 
 [Japanese Resume is here.](./README.md)
 
@@ -44,8 +44,9 @@ Tokyo, Japan
 |May 2007 ~ August 2013|[AROUSE SYSTEM Co., Ltd.](http://www.arouse.co.jp/)|
 |September 2013 ~ April 2017|Legend Applications, Inc. formerly known as [LaKeel, Inc](https://www.lakeel.com/ja/index.html)|
 |May 2017 ~ March 2020|[BizReach, Inc.](http://www.bizreach.co.jp/)|
-|March 2020 ~ Currently|[eureka, Inc.](https://eure.jp/)|
+|March 2020 ~ September 2024|[eureka, Inc.](https://eure.jp/)|
 |February 2023 ~ Currently|nobody(Sole Proprietorship)|
+|October 2024 ~ Currently|[BizReach, Inc.](http://www.bizreach.co.jp/)|
 
 ### Detail
 
@@ -92,6 +93,12 @@ Tokyo, Japan
 |April 2022 ~ January 2023|BI Team|Data Analyst and Data Engineer|- Building a new data analysis infrastructure<br>- Pairs Core Dashboard Project|
 |February 2023 ~ December 2023|Data Management Team|Data Engineer|- Data analysis infrastructure management<br>- Log infrastructure renewal Project|
 |January 2024 ~ Currently|BI Team Data Enabling|Data Engineer and Analytics Engineer|- Improved operational efficiency of data analysis infrastructure<br>- Migration from Apps Script to dbt<br>- dbt operational improvements<br>- BI tool operation redesign|
+
+#### BizReach, Inc.
+
+|Term|Organization|Role|Contents|
+|---|---|---|---|
+|October 2024 ~ Currently|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- Data infrastructure management for BizReach and HRMOS<br>- Data analysis of BizReach and HRMOS|
 
 #### nobody(Sole Proprietorship)
 
@@ -334,6 +341,7 @@ As a matter of course, doing improvement and growth.
 |January 25th, 2021|[BI Tool Casual Roundtable \~Redash and Metabase\~](https://bitoollabo.connpass.com/event/199913/)|
 |April 24th, 2023|[Tableau Users Group](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
 |April 15th, 2024|[Tableau User Only】IT Service Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
+|Nobember 23rd, 2024|DATA Saber Conference 2024|
 
 ### Media and blog postings
 
