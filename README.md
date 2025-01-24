@@ -1,6 +1,6 @@
 # 職務経歴書
 
-*2024年010月21日*現在
+*2025年01月24日*現在
 
 [英語版職務経歴書はこちら](./README_EN.md)
 
@@ -31,7 +31,7 @@
 [![@kazuya.araki](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@kazuya.araki)
 [![kazuya.araki.tokyo](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kazuya.araki.tokyo)
 [![kazuya-araki-65680111a](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazuya-araki-65680111a/)
-[![kazuya_araki_d](https://img.shields.io/badge/Wantedly-21BDDB?style=for-the-badge&logo=wantedly&logoColor=white)](https://www.wantedly.com/id/kazuya_araki_d)
+[![kazuya0araki](https://img.shields.io/badge/Wantedly-21BDDB?style=for-the-badge&logo=wantedly&logoColor=white)](https://www.wantedly.com/id/kazuya0araki)
 [![kazuya_araki_tokyo](https://img.shields.io/badge/Speaker%20Deck-009287.svg?style=for-the-badge&logo=Speaker-Deck&logoColor=white)](https://speakerdeck.com/kazuya_araki_tokyo)
 [![kazuya.araki](https://img.shields.io/badge/Tableau%20Public-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kazuya.araki/vizzes)
 
