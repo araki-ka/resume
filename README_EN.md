@@ -1,6 +1,6 @@
 # Resume
 
-Since *January 24th, 2025*
+Since *July 11th, 2025*
 
 [Japanese Resume is here.](./README.md)
 
@@ -98,15 +98,18 @@ Tokyo, Japan
 
 |Term|Organization|Role|Contents|
 |---|---|---|---|
-|October 2024 ~ Currently|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- Data infrastructure management for BizReach and HRMOS<br>- Data analysis of BizReach and HRMOS|
+|October 2024 ~ Currently|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- Sales data maintenance for BizReach<br>- Data infrastructure management for BizReach and HRMOS<br>- Data analysis of BizReach and HRMOS|
 
 #### nobody(Sole Proprietorship)
 
 |Term|Contents|
 |---|---|
 |February 2023 ~ December 2023|Operation and maintenance of data analysis environment|
-|October 2023 ~ Currently|Data Mart creation, Looker Studio Report creation|
-|May 2024 ~ Currently|Python System Development|
+|October 2023 ~ December 2024|Data Mart creation, Looker Studio Report creation|
+|May 2024 ~ June 2025|Python System Development|
+|May 2025 ~ June 2025|Project Promotion Support|
+|May 2025 ~ Current|Data Analysis Infrastructure Building Project|
+|June 2025 ~ Current|Personal Development (Python Plugin)|
 
 ## Qualifications
 
@@ -163,6 +166,7 @@ Tokyo, Japan
   - pip
   - Pyenv
   - Django
+  - uv
   - Anaconda
   - Deep Learning
     - numpy
@@ -185,6 +189,7 @@ Tokyo, Japan
 - CSS
 - R
 - Terraform
+- Rust
 
 ### Middleware
 
@@ -212,6 +217,7 @@ Tokyo, Japan
     - Neo4j
 - Data Warehouse
   - SAP BW
+  - Snowflake
 
 ### Cloud
 
@@ -269,11 +275,16 @@ Tokyo, Japan
 - BI
   - [Tableau](https://www.tableau.com/)
   - [Power BI](https://powerbi.microsoft.com/en-us/)
+  - [Looker](https://cloud.google.com/looker)
   - [Looker Studio / Looker Studio Pro](https://cloud.google.com/looker-studio)
   - [redash](https://redash.io/)
   - [Apache Superset](https://superset.apache.org/)
+  - [Preset](https://preset.io/)
   - [metabase](https://www.metabase.com/)
   - [Lightdash](https://www.lightdash.com/)
+  - [Count](https://count.co/)
+  - [Steep](https://steep.app/)
+  - [Airtable](https://www.airtable.com/)
 - ELT
   - [dbt](https://www.getdbt.com/)
   - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
