@@ -1,6 +1,6 @@
 # 職務経歴書
 
-*2025年01月24日*現在
+*2025年07月11日*現在
 
 [英語版職務経歴書はこちら](./README_EN.md)
 
@@ -98,15 +98,18 @@
 
 |期間|所属組織|職位|内容|
 |---|---|---|---|
-|2024年10月 ~ 現在|CTO室 データソリューショングループ|Data Engineer and Data Analyst|- ビズリーチ、HRMOS全体のデータ基盤管理<br>- ビズリーチ、HRMOS全体のデータ分析|
+|2024年10月 ~ 現在|CTO室 データソリューショングループ|Data Engineer and Data Analyst|- ビズリーチ事業の売上データ整備<br>- ビズリーチ、HRMOS全体のデータ分析|
 
 #### nobody(個人事業)
 
 |期間|内容|
 |---|---|
 |2023年02月 ~ 2023年12月|データ分析環境運用保守案件|
-|2023年10月 ~ 現在|Data Mart作成, Looker Studio Report作成案件|
-|2024年05月 ~ 現在|Pythonシステム構築案件|
+|2023年10月 ~ 2024年12月|Data Mart作成, Looker Studio Report作成案件|
+|2024年05月 ~ 2025年04月|Pythonシステム構築案件|
+|2025年05月 ~ 2025年06月|プロジェクト推進支援|
+|2025年05月 ~ 現在|データ分析基盤構築案件|
+|2025年06月 ~ 現在|個人開発(Pythonプラグイン)|
 
 ## 資格
 
@@ -163,6 +166,7 @@
   - pip
   - Pyenv
   - Django
+  - uv
   - Anaconda
   - Deep Learning
     - numpy
@@ -185,6 +189,7 @@
 - CSS
 - R
 - Terraform
+- Rust
 
 ### ミドルウェア
 
@@ -212,6 +217,7 @@
     - Neo4j
 - Data Warehouse
   - SAP BW
+  - Snowflake
 
 ### クラウド
 
@@ -269,11 +275,16 @@
 - BI
   - [Tableau](https://www.tableau.com/)
   - [Power BI](https://powerbi.microsoft.com/en-us/)
+  - [Looker](https://cloud.google.com/looker)
   - [Looker Studio / Looker Studio Pro](https://cloud.google.com/looker-studio)
   - [redash](https://redash.io/)
   - [Apache Superset](https://superset.apache.org/)
+  - [Preset](https://preset.io/)
   - [metabase](https://www.metabase.com/)
   - [Lightdash](https://www.lightdash.com/)
+  - [Count](https://count.co/)
+  - [Steep](https://steep.app/)
+  - [Airtable](https://www.airtable.com/)
 - ELT
   - [dbt](https://www.getdbt.com/)
   - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
@@ -418,7 +429,7 @@ IT関連のスキルアップには教育は欠かせません。
     - Python
     - Java (+ Spring Framework)
 
-#### データ × 業務効率化 = BPR(Business Process Reengineering)
+#### データ × 業務効率化 = BPR(Business Process Re-engineering)
 
 非エンジニア層は、ITリテラシーの壁があるため、有効にITを活用できていません。  
 データとテクノロジーの力を駆使して、非効率業務を改善する手助けを行い、非エンジニア層の業務効率化を図っています。
