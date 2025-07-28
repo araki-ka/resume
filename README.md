@@ -25,7 +25,7 @@
 ### SNS etc.
 
 [![kazuya_araki_jp](https://img.shields.io/badge/X(twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kazuya_araki_jp)
-[![araki-ka](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/araki-ka)
+[![kazuya0araki](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kazuya0araki)
 [![Kazuya_Araki_Tokyo](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/Kazuya_Araki_Tokyo)
 [![jedi_trickstar](https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=note&logoColor=white)](https://note.com/jedi_trickstar)
 [![@kazuya.araki](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@kazuya.araki)
